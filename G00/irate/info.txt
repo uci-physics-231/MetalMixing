@@ -1,0 +1,3210 @@
+
+Sync-Point 0, Time: 0, Nf = 0000110000, Systemstep: 0
+
+Sync-Point 1, Time: 6.10352e-05, Nf = 0000000012, Systemstep: 6.10352e-05
+
+Sync-Point 2, Time: 0.00012207, Nf = 0000000094, Systemstep: 6.10352e-05
+
+Sync-Point 3, Time: 0.000183105, Nf = 0000000012, Systemstep: 6.10352e-05
+
+Sync-Point 4, Time: 0.000244141, Nf = 0000001720, Systemstep: 6.10352e-05
+
+Sync-Point 5, Time: 0.000305176, Nf = 0000000004, Systemstep: 6.10352e-05
+
+Sync-Point 6, Time: 0.000366211, Nf = 0000000080, Systemstep: 6.10352e-05
+
+Sync-Point 7, Time: 0.000488281, Nf = 0000005068, Systemstep: 0.00012207
+
+Sync-Point 8, Time: 0.000610352, Nf = 0000000060, Systemstep: 0.00012207
+
+Sync-Point 9, Time: 0.000732422, Nf = 0000001614, Systemstep: 0.00012207
+
+Sync-Point 10, Time: 0.000854492, Nf = 0000000040, Systemstep: 0.00012207
+
+Sync-Point 11, Time: 0.000976562, Nf = 0000008138, Systemstep: 0.00012207
+
+Sync-Point 12, Time: 0.00109863, Nf = 0000000032, Systemstep: 0.00012207
+
+Sync-Point 13, Time: 0.0012207, Nf = 0000001494, Systemstep: 0.00012207
+
+Sync-Point 14, Time: 0.00134277, Nf = 0000000024, Systemstep: 0.00012207
+
+Sync-Point 15, Time: 0.00146484, Nf = 0000004974, Systemstep: 0.00012207
+
+Sync-Point 16, Time: 0.00158691, Nf = 0000000022, Systemstep: 0.00012207
+
+Sync-Point 17, Time: 0.00170898, Nf = 0000001344, Systemstep: 0.00012207
+
+Sync-Point 18, Time: 0.00183105, Nf = 0000000012, Systemstep: 0.00012207
+
+Sync-Point 19, Time: 0.00195312, Nf = 0000015996, Systemstep: 0.00012207
+
+Sync-Point 20, Time: 0.0020752, Nf = 0000000008, Systemstep: 0.00012207
+
+Sync-Point 21, Time: 0.00219727, Nf = 0000001234, Systemstep: 0.00012207
+
+Sync-Point 22, Time: 0.00231934, Nf = 0000000004, Systemstep: 0.00012207
+
+Sync-Point 23, Time: 0.00244141, Nf = 0000004834, Systemstep: 0.00012207
+
+Sync-Point 24, Time: 0.00268555, Nf = 0000001134, Systemstep: 0.000244141
+
+Sync-Point 25, Time: 0.00280762, Nf = 0000000002, Systemstep: 0.00012207
+
+Sync-Point 26, Time: 0.00292969, Nf = 0000008090, Systemstep: 0.00012207
+
+Sync-Point 27, Time: 0.00305176, Nf = 0000000004, Systemstep: 0.00012207
+
+Sync-Point 28, Time: 0.00317383, Nf = 0000001040, Systemstep: 0.00012207
+
+Sync-Point 29, Time: 0.00341797, Nf = 0000004748, Systemstep: 0.000244141
+
+Sync-Point 30, Time: 0.00366211, Nf = 0000000924, Systemstep: 0.000244141
+
+Sync-Point 31, Time: 0.00378418, Nf = 0000000002, Systemstep: 0.00012207
+
+Sync-Point 32, Time: 0.00390625, Nf = 0000037986, Systemstep: 0.00012207
+
+Sync-Point 33, Time: 0.00402832, Nf = 0000000002, Systemstep: 0.00012207
+
+Sync-Point 34, Time: 0.00415039, Nf = 0000000820, Systemstep: 0.00012207
+
+Sync-Point 35, Time: 0.00427246, Nf = 0000000004, Systemstep: 0.00012207
+
+Sync-Point 36, Time: 0.00439453, Nf = 0000004652, Systemstep: 0.00012207
+
+Sync-Point 37, Time: 0.00463867, Nf = 0000000776, Systemstep: 0.000244141
+
+Sync-Point 38, Time: 0.00488281, Nf = 0000008044, Systemstep: 0.000244141
+
+Sync-Point 39, Time: 0.00512695, Nf = 0000000644, Systemstep: 0.000244141
+
+Sync-Point 40, Time: 0.00537109, Nf = 0000004510, Systemstep: 0.000244141
+
+Sync-Point 41, Time: 0.00561523, Nf = 0000000516, Systemstep: 0.000244141
+
+Sync-Point 42, Time: 0.00585938, Nf = 0000015962, Systemstep: 0.000244141
+
+Sync-Point 43, Time: 0.00610352, Nf = 0000000442, Systemstep: 0.000244141
+
+Sync-Point 44, Time: 0.00634766, Nf = 0000004394, Systemstep: 0.000244141
+
+Sync-Point 45, Time: 0.0065918, Nf = 0000000352, Systemstep: 0.000244141
+
+Sync-Point 46, Time: 0.00683594, Nf = 0000008032, Systemstep: 0.000244141
+
+Sync-Point 47, Time: 0.00708008, Nf = 0000000274, Systemstep: 0.000244141
+
+Sync-Point 48, Time: 0.00732422, Nf = 0000004288, Systemstep: 0.000244141
+
+Sync-Point 49, Time: 0.00756836, Nf = 0000000210, Systemstep: 0.000244141
+
+Sync-Point 50, Time: 0.0078125, Nf = 0000068752, Systemstep: 0.000244141
+
+Sync-Point 51, Time: 0.00805664, Nf = 0000000174, Systemstep: 0.000244141
+
+Sync-Point 52, Time: 0.00830078, Nf = 0000004094, Systemstep: 0.000244141
+
+Sync-Point 53, Time: 0.00854492, Nf = 0000000120, Systemstep: 0.000244141
+
+Sync-Point 54, Time: 0.00878906, Nf = 0000007950, Systemstep: 0.000244141
+
+Sync-Point 55, Time: 0.0090332, Nf = 0000000096, Systemstep: 0.000244141
+
+Sync-Point 56, Time: 0.00927734, Nf = 0000003912, Systemstep: 0.000244141
+
+Sync-Point 57, Time: 0.00952148, Nf = 0000000078, Systemstep: 0.000244141
+
+Sync-Point 58, Time: 0.00976562, Nf = 0000016056, Systemstep: 0.000244141
+
+Sync-Point 59, Time: 0.0100098, Nf = 0000000054, Systemstep: 0.000244141
+
+Sync-Point 60, Time: 0.0102539, Nf = 0000003748, Systemstep: 0.000244141
+
+Sync-Point 61, Time: 0.010498, Nf = 0000000038, Systemstep: 0.000244141
+
+Sync-Point 62, Time: 0.0107422, Nf = 0000007898, Systemstep: 0.000244141
+
+Sync-Point 63, Time: 0.0109863, Nf = 0000000028, Systemstep: 0.000244141
+
+Sync-Point 64, Time: 0.0112305, Nf = 0000003562, Systemstep: 0.000244141
+
+Sync-Point 65, Time: 0.0114746, Nf = 0000000030, Systemstep: 0.000244141
+
+Sync-Point 66, Time: 0.0117188, Nf = 0000037986, Systemstep: 0.000244141
+
+Sync-Point 67, Time: 0.0119629, Nf = 0000000018, Systemstep: 0.000244141
+
+Sync-Point 68, Time: 0.012207, Nf = 0000003320, Systemstep: 0.000244141
+
+Sync-Point 69, Time: 0.0124512, Nf = 0000000012, Systemstep: 0.000244141
+
+Sync-Point 70, Time: 0.0126953, Nf = 0000007784, Systemstep: 0.000244141
+
+Sync-Point 71, Time: 0.0129395, Nf = 0000000010, Systemstep: 0.000244141
+
+Sync-Point 72, Time: 0.0131836, Nf = 0000003032, Systemstep: 0.000244141
+
+Sync-Point 73, Time: 0.0134277, Nf = 0000000002, Systemstep: 0.000244141
+
+Sync-Point 74, Time: 0.0136719, Nf = 0000016076, Systemstep: 0.000244141
+
+Sync-Point 75, Time: 0.0141602, Nf = 0000002776, Systemstep: 0.000488281
+
+Sync-Point 76, Time: 0.0146484, Nf = 0000007672, Systemstep: 0.000488281
+
+Sync-Point 77, Time: 0.0151367, Nf = 0000002456, Systemstep: 0.000488281
+
+Sync-Point 78, Time: 0.015625, Nf = 0000099998, Systemstep: 0.000488281
+
+Sync-Point 79, Time: 0.0161133, Nf = 0000002132, Systemstep: 0.000488281
+
+Sync-Point 80, Time: 0.0166016, Nf = 0000007500, Systemstep: 0.000488281
+
+Sync-Point 81, Time: 0.0170898, Nf = 0000001840, Systemstep: 0.000488281
+
+Sync-Point 82, Time: 0.0175781, Nf = 0000016074, Systemstep: 0.000488281
+
+Sync-Point 83, Time: 0.0180664, Nf = 0000001516, Systemstep: 0.000488281
+
+Sync-Point 84, Time: 0.0185547, Nf = 0000007362, Systemstep: 0.000488281
+
+Sync-Point 85, Time: 0.019043, Nf = 0000001216, Systemstep: 0.000488281
+
+Sync-Point 86, Time: 0.0195312, Nf = 0000038038, Systemstep: 0.000488281
+
+Sync-Point 87, Time: 0.0200195, Nf = 0000000968, Systemstep: 0.000488281
+
+Sync-Point 88, Time: 0.0205078, Nf = 0000007200, Systemstep: 0.000488281
+
+Sync-Point 89, Time: 0.0209961, Nf = 0000000762, Systemstep: 0.000488281
+
+Sync-Point 90, Time: 0.0214844, Nf = 0000016072, Systemstep: 0.000488281
+
+Sync-Point 91, Time: 0.0219727, Nf = 0000000596, Systemstep: 0.000488281
+
+Sync-Point 92, Time: 0.0224609, Nf = 0000007078, Systemstep: 0.000488281
+
+Sync-Point 93, Time: 0.0229492, Nf = 0000000438, Systemstep: 0.000488281
+
+Sync-Point 94, Time: 0.0234375, Nf = 0000068738, Systemstep: 0.000488281
+
+Sync-Point 95, Time: 0.0239258, Nf = 0000000342, Systemstep: 0.000488281
+
+Sync-Point 96, Time: 0.0244141, Nf = 0000006824, Systemstep: 0.000488281
+
+Sync-Point 97, Time: 0.0249023, Nf = 0000000226, Systemstep: 0.000488281
+
+Sync-Point 98, Time: 0.0253906, Nf = 0000016018, Systemstep: 0.000488281
+
+Sync-Point 99, Time: 0.0258789, Nf = 0000000160, Systemstep: 0.000488281
+
+Sync-Point 100, Time: 0.0263672, Nf = 0000006596, Systemstep: 0.000488281
+
+Sync-Point 101, Time: 0.0268555, Nf = 0000000078, Systemstep: 0.000488281
+
+Sync-Point 102, Time: 0.0273438, Nf = 0000038010, Systemstep: 0.000488281
+
+Sync-Point 103, Time: 0.027832, Nf = 0000000034, Systemstep: 0.000488281
+
+Sync-Point 104, Time: 0.0283203, Nf = 0000006386, Systemstep: 0.000488281
+
+Sync-Point 105, Time: 0.0288086, Nf = 0000000024, Systemstep: 0.000488281
+
+Sync-Point 106, Time: 0.0292969, Nf = 0000016020, Systemstep: 0.000488281
+
+Sync-Point 107, Time: 0.0297852, Nf = 0000000016, Systemstep: 0.000488281
+
+Sync-Point 108, Time: 0.0302734, Nf = 0000006162, Systemstep: 0.000488281
+
+Sync-Point 109, Time: 0.0307617, Nf = 0000000014, Systemstep: 0.000488281
+
+Sync-Point 110, Time: 0.03125, Nf = 0000109776, Systemstep: 0.000488281
+
+Sync-Point 111, Time: 0.0317383, Nf = 0000000010, Systemstep: 0.000488281
+
+Sync-Point 112, Time: 0.0322266, Nf = 0000005808, Systemstep: 0.000488281
+
+Sync-Point 113, Time: 0.0327148, Nf = 0000000008, Systemstep: 0.000488281
+
+Sync-Point 114, Time: 0.0332031, Nf = 0000015972, Systemstep: 0.000488281
+
+Sync-Point 115, Time: 0.0336914, Nf = 0000000006, Systemstep: 0.000488281
+
+Sync-Point 116, Time: 0.0341797, Nf = 0000005426, Systemstep: 0.000488281
+
+Sync-Point 117, Time: 0.034668, Nf = 0000000002, Systemstep: 0.000488281
+
+Sync-Point 118, Time: 0.0351562, Nf = 0000038004, Systemstep: 0.000488281
+
+Sync-Point 119, Time: 0.0361328, Nf = 0000004840, Systemstep: 0.000976562
+
+Sync-Point 120, Time: 0.0371094, Nf = 0000015886, Systemstep: 0.000976562
+
+Sync-Point 121, Time: 0.0380859, Nf = 0000004314, Systemstep: 0.000976562
+
+Sync-Point 122, Time: 0.0390625, Nf = 0000068746, Systemstep: 0.000976562
+
+Sync-Point 123, Time: 0.0400391, Nf = 0000003712, Systemstep: 0.000976562
+
+Sync-Point 124, Time: 0.0410156, Nf = 0000015772, Systemstep: 0.000976562
+
+Sync-Point 125, Time: 0.0419922, Nf = 0000003040, Systemstep: 0.000976562
+
+Sync-Point 126, Time: 0.0429688, Nf = 0000037958, Systemstep: 0.000976562
+
+Sync-Point 127, Time: 0.0439453, Nf = 0000002452, Systemstep: 0.000976562
+
+Sync-Point 128, Time: 0.0449219, Nf = 0000015670, Systemstep: 0.000976562
+
+Sync-Point 129, Time: 0.0458984, Nf = 0000001928, Systemstep: 0.000976562
+
+Sync-Point 130, Time: 0.046875, Nf = 0000099982, Systemstep: 0.000976562
+
+Sync-Point 131, Time: 0.0478516, Nf = 0000001526, Systemstep: 0.000976562
+
+Sync-Point 132, Time: 0.0488281, Nf = 0000015416, Systemstep: 0.000976562
+
+Sync-Point 133, Time: 0.0498047, Nf = 0000001166, Systemstep: 0.000976562
+
+Sync-Point 134, Time: 0.0507812, Nf = 0000037960, Systemstep: 0.000976562
+
+Sync-Point 135, Time: 0.0517578, Nf = 0000000918, Systemstep: 0.000976562
+
+Sync-Point 136, Time: 0.0527344, Nf = 0000015262, Systemstep: 0.000976562
+
+Sync-Point 137, Time: 0.0537109, Nf = 0000000744, Systemstep: 0.000976562
+
+Sync-Point 138, Time: 0.0546875, Nf = 0000068740, Systemstep: 0.000976562
+
+Sync-Point 139, Time: 0.0556641, Nf = 0000000546, Systemstep: 0.000976562
+
+Sync-Point 140, Time: 0.0566406, Nf = 0000015058, Systemstep: 0.000976562
+
+Sync-Point 141, Time: 0.0576172, Nf = 0000000414, Systemstep: 0.000976562
+
+Sync-Point 142, Time: 0.0585938, Nf = 0000037936, Systemstep: 0.000976562
+
+Sync-Point 143, Time: 0.0595703, Nf = 0000000284, Systemstep: 0.000976562
+
+Sync-Point 144, Time: 0.0605469, Nf = 0000014810, Systemstep: 0.000976562
+
+Sync-Point 145, Time: 0.0615234, Nf = 0000000204, Systemstep: 0.000976562
+
+Sync-Point 146, Time: 0.0625, Nf = 0000110000, Systemstep: 0.000976562
+
+Sync-Point 147, Time: 0.0634766, Nf = 0000000120, Systemstep: 0.000976562
+
+Sync-Point 148, Time: 0.0644531, Nf = 0000014618, Systemstep: 0.000976562
+
+Sync-Point 149, Time: 0.0654297, Nf = 0000000090, Systemstep: 0.000976562
+
+Sync-Point 150, Time: 0.0664062, Nf = 0000037880, Systemstep: 0.000976562
+
+Sync-Point 151, Time: 0.0673828, Nf = 0000000072, Systemstep: 0.000976562
+
+Sync-Point 152, Time: 0.0683594, Nf = 0000014288, Systemstep: 0.000976562
+
+Sync-Point 153, Time: 0.0693359, Nf = 0000000056, Systemstep: 0.000976562
+
+Sync-Point 154, Time: 0.0703125, Nf = 0000068732, Systemstep: 0.000976562
+
+Sync-Point 155, Time: 0.0712891, Nf = 0000000040, Systemstep: 0.000976562
+
+Sync-Point 156, Time: 0.0722656, Nf = 0000013882, Systemstep: 0.000976562
+
+Sync-Point 157, Time: 0.0732422, Nf = 0000000028, Systemstep: 0.000976562
+
+Sync-Point 158, Time: 0.0742188, Nf = 0000037816, Systemstep: 0.000976562
+
+Sync-Point 159, Time: 0.0751953, Nf = 0000000022, Systemstep: 0.000976562
+
+Sync-Point 160, Time: 0.0761719, Nf = 0000013328, Systemstep: 0.000976562
+
+Sync-Point 161, Time: 0.0771484, Nf = 0000000006, Systemstep: 0.000976562
+
+Sync-Point 162, Time: 0.078125, Nf = 0000099982, Systemstep: 0.000976562
+
+Sync-Point 163, Time: 0.0791016, Nf = 0000000008, Systemstep: 0.000976562
+
+Sync-Point 164, Time: 0.0800781, Nf = 0000012690, Systemstep: 0.000976562
+
+Sync-Point 165, Time: 0.0810547, Nf = 0000000006, Systemstep: 0.000976562
+
+Sync-Point 166, Time: 0.0820312, Nf = 0000037724, Systemstep: 0.000976562
+
+Sync-Point 167, Time: 0.0830078, Nf = 0000000002, Systemstep: 0.000976562
+
+Sync-Point 168, Time: 0.0839844, Nf = 0000012024, Systemstep: 0.000976562
+
+Sync-Point 169, Time: 0.0849609, Nf = 0000000002, Systemstep: 0.000976562
+
+Sync-Point 170, Time: 0.0859375, Nf = 0000068718, Systemstep: 0.000976562
+
+Sync-Point 171, Time: 0.0869141, Nf = 0000000002, Systemstep: 0.000976562
+
+Sync-Point 172, Time: 0.0878906, Nf = 0000011316, Systemstep: 0.000976562
+
+Sync-Point 173, Time: 0.0898438, Nf = 0000037540, Systemstep: 0.00195312
+
+Sync-Point 174, Time: 0.0917969, Nf = 0000010676, Systemstep: 0.00195312
+
+Sync-Point 175, Time: 0.0927734, Nf = 0000000002, Systemstep: 0.000976562
+
+Sync-Point 176, Time: 0.09375, Nf = 0000109776, Systemstep: 0.000976562
+
+Sync-Point 177, Time: 0.0947266, Nf = 0000000002, Systemstep: 0.000976562
+
+Sync-Point 178, Time: 0.0957031, Nf = 0000010078, Systemstep: 0.000976562
+
+Sync-Point 179, Time: 0.0976562, Nf = 0000037326, Systemstep: 0.00195312
+
+Sync-Point 180, Time: 0.0996094, Nf = 0000009572, Systemstep: 0.00195312
+
+Sync-Point 181, Time: 0.101562, Nf = 0000068712, Systemstep: 0.00195312
+
+Sync-Point 182, Time: 0.103516, Nf = 0000009210, Systemstep: 0.00195312
+
+Sync-Point 183, Time: 0.105469, Nf = 0000037106, Systemstep: 0.00195312
+
+Sync-Point 184, Time: 0.107422, Nf = 0000008958, Systemstep: 0.00195312
+
+Sync-Point 185, Time: 0.108398, Nf = 0000000002, Systemstep: 0.000976562
+
+Sync-Point 186, Time: 0.109375, Nf = 0000099990, Systemstep: 0.000976562
+
+Sync-Point 187, Time: 0.111328, Nf = 0000008844, Systemstep: 0.00195312
+
+Sync-Point 188, Time: 0.113281, Nf = 0000036866, Systemstep: 0.00195312
+
+Sync-Point 189, Time: 0.115234, Nf = 0000008662, Systemstep: 0.00195312
+
+Sync-Point 190, Time: 0.117188, Nf = 0000068708, Systemstep: 0.00195312
+
+Sync-Point 191, Time: 0.119141, Nf = 0000008498, Systemstep: 0.00195312
+
+Sync-Point 192, Time: 0.121094, Nf = 0000036612, Systemstep: 0.00195312
+
+Sync-Point 193, Time: 0.123047, Nf = 0000008352, Systemstep: 0.00195312
+
+Sync-Point 194, Time: 0.125, Nf = 0000110000, Systemstep: 0.00195312
+
+Sync-Point 195, Time: 0.126953, Nf = 0000008194, Systemstep: 0.00195312
+
+Sync-Point 196, Time: 0.128906, Nf = 0000036306, Systemstep: 0.00195312
+
+Sync-Point 197, Time: 0.129883, Nf = 0000000002, Systemstep: 0.000976562
+
+Sync-Point 198, Time: 0.130859, Nf = 0000008144, Systemstep: 0.000976562
+
+Sync-Point 199, Time: 0.131836, Nf = 0000000004, Systemstep: 0.000976562
+
+Sync-Point 200, Time: 0.132812, Nf = 0000068680, Systemstep: 0.000976562
+
+Sync-Point 201, Time: 0.133789, Nf = 0000000008, Systemstep: 0.000976562
+
+Sync-Point 202, Time: 0.134766, Nf = 0000008052, Systemstep: 0.000976562
+
+Sync-Point 203, Time: 0.135742, Nf = 0000000012, Systemstep: 0.000976562
+
+Sync-Point 204, Time: 0.136719, Nf = 0000035934, Systemstep: 0.000976562
+
+Sync-Point 205, Time: 0.137695, Nf = 0000000018, Systemstep: 0.000976562
+
+Sync-Point 206, Time: 0.138672, Nf = 0000008076, Systemstep: 0.000976562
+
+Sync-Point 207, Time: 0.139648, Nf = 0000000022, Systemstep: 0.000976562
+
+Sync-Point 208, Time: 0.140625, Nf = 0000099988, Systemstep: 0.000976562
+
+Sync-Point 209, Time: 0.141602, Nf = 0000000030, Systemstep: 0.000976562
+
+Sync-Point 210, Time: 0.142578, Nf = 0000008086, Systemstep: 0.000976562
+
+Sync-Point 211, Time: 0.143555, Nf = 0000000034, Systemstep: 0.000976562
+
+Sync-Point 212, Time: 0.144531, Nf = 0000035554, Systemstep: 0.000976562
+
+Sync-Point 213, Time: 0.145508, Nf = 0000000034, Systemstep: 0.000976562
+
+Sync-Point 214, Time: 0.146484, Nf = 0000008050, Systemstep: 0.000976562
+
+Sync-Point 215, Time: 0.147461, Nf = 0000000048, Systemstep: 0.000976562
+
+Sync-Point 216, Time: 0.148438, Nf = 0000068510, Systemstep: 0.000976562
+
+Sync-Point 217, Time: 0.149414, Nf = 0000000060, Systemstep: 0.000976562
+
+Sync-Point 218, Time: 0.150391, Nf = 0000008032, Systemstep: 0.000976562
+
+Sync-Point 219, Time: 0.151367, Nf = 0000000064, Systemstep: 0.000976562
+
+Sync-Point 220, Time: 0.152344, Nf = 0000035238, Systemstep: 0.000976562
+
+Sync-Point 221, Time: 0.15332, Nf = 0000000078, Systemstep: 0.000976562
+
+Sync-Point 222, Time: 0.154297, Nf = 0000008070, Systemstep: 0.000976562
+
+Sync-Point 223, Time: 0.155273, Nf = 0000000090, Systemstep: 0.000976562
+
+Sync-Point 224, Time: 0.155762, Nf = 0000000004, Systemstep: 0.000488281
+
+Sync-Point 225, Time: 0.15625, Nf = 0000109776, Systemstep: 0.000488281
+
+Sync-Point 226, Time: 0.156738, Nf = 0000000008, Systemstep: 0.000488281
+
+Sync-Point 227, Time: 0.157227, Nf = 0000000110, Systemstep: 0.000488281
+
+Sync-Point 228, Time: 0.157715, Nf = 0000000008, Systemstep: 0.000488281
+
+Sync-Point 229, Time: 0.158203, Nf = 0000008112, Systemstep: 0.000488281
+
+Sync-Point 230, Time: 0.158691, Nf = 0000000010, Systemstep: 0.000488281
+
+Sync-Point 231, Time: 0.15918, Nf = 0000000126, Systemstep: 0.000488281
+
+Sync-Point 232, Time: 0.159668, Nf = 0000000010, Systemstep: 0.000488281
+
+Sync-Point 233, Time: 0.160156, Nf = 0000034860, Systemstep: 0.000488281
+
+Sync-Point 234, Time: 0.160645, Nf = 0000000010, Systemstep: 0.000488281
+
+Sync-Point 235, Time: 0.161133, Nf = 0000000136, Systemstep: 0.000488281
+
+Sync-Point 236, Time: 0.161621, Nf = 0000000020, Systemstep: 0.000488281
+
+Sync-Point 237, Time: 0.162109, Nf = 0000008190, Systemstep: 0.000488281
+
+Sync-Point 238, Time: 0.162598, Nf = 0000000026, Systemstep: 0.000488281
+
+Sync-Point 239, Time: 0.163086, Nf = 0000000144, Systemstep: 0.000488281
+
+Sync-Point 240, Time: 0.163574, Nf = 0000000030, Systemstep: 0.000488281
+
+Sync-Point 241, Time: 0.164062, Nf = 0000068302, Systemstep: 0.000488281
+
+Sync-Point 242, Time: 0.164551, Nf = 0000000032, Systemstep: 0.000488281
+
+Sync-Point 243, Time: 0.165039, Nf = 0000000166, Systemstep: 0.000488281
+
+Sync-Point 244, Time: 0.165527, Nf = 0000000040, Systemstep: 0.000488281
+
+Sync-Point 245, Time: 0.166016, Nf = 0000008216, Systemstep: 0.000488281
+
+Sync-Point 246, Time: 0.166504, Nf = 0000000044, Systemstep: 0.000488281
+
+Sync-Point 247, Time: 0.166992, Nf = 0000000186, Systemstep: 0.000488281
+
+Sync-Point 248, Time: 0.16748, Nf = 0000000048, Systemstep: 0.000488281
+
+Sync-Point 249, Time: 0.167969, Nf = 0000034648, Systemstep: 0.000488281
+
+Sync-Point 250, Time: 0.168457, Nf = 0000000050, Systemstep: 0.000488281
+
+Sync-Point 251, Time: 0.168945, Nf = 0000000210, Systemstep: 0.000488281
+
+Sync-Point 252, Time: 0.169434, Nf = 0000000054, Systemstep: 0.000488281
+
+Sync-Point 253, Time: 0.169922, Nf = 0000008434, Systemstep: 0.000488281
+
+Sync-Point 254, Time: 0.17041, Nf = 0000000058, Systemstep: 0.000488281
+
+Sync-Point 255, Time: 0.170898, Nf = 0000000216, Systemstep: 0.000488281
+
+Sync-Point 256, Time: 0.171387, Nf = 0000000058, Systemstep: 0.000488281
+
+Sync-Point 257, Time: 0.171875, Nf = 0000099992, Systemstep: 0.000488281
+
+Sync-Point 258, Time: 0.172363, Nf = 0000000068, Systemstep: 0.000488281
+
+Sync-Point 259, Time: 0.172485, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 260, Time: 0.172607, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 261, Time: 0.172729, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 262, Time: 0.172852, Nf = 0000000230, Systemstep: 0.00012207
+
+Sync-Point 263, Time: 0.172974, Nf = 0000000031, Systemstep: 0.00012207
+
+Sync-Point 264, Time: 0.173035, Nf = 0000000001, Systemstep: 6.10352e-05
+
+Sync-Point 265, Time: 0.173096, Nf = 0000000054, Systemstep: 6.10352e-05
+
+Sync-Point 266, Time: 0.173218, Nf = 0000000021, Systemstep: 0.00012207
+
+Sync-Point 267, Time: 0.17334, Nf = 0000000161, Systemstep: 0.00012207
+
+Sync-Point 268, Time: 0.173462, Nf = 0000000028, Systemstep: 0.00012207
+
+Sync-Point 269, Time: 0.173584, Nf = 0000000155, Systemstep: 0.00012207
+
+Sync-Point 270, Time: 0.173706, Nf = 0000000038, Systemstep: 0.00012207
+
+Sync-Point 271, Time: 0.173767, Nf = 0000000007, Systemstep: 6.10352e-05
+
+Sync-Point 272, Time: 0.173828, Nf = 0000008556, Systemstep: 6.10352e-05
+
+Sync-Point 273, Time: 0.173889, Nf = 0000000001, Systemstep: 6.10352e-05
+
+Sync-Point 274, Time: 0.17395, Nf = 0000000040, Systemstep: 6.10352e-05
+
+Sync-Point 275, Time: 0.174072, Nf = 0000000172, Systemstep: 0.00012207
+
+Sync-Point 276, Time: 0.174194, Nf = 0000000034, Systemstep: 0.00012207
+
+Sync-Point 277, Time: 0.174316, Nf = 0000000301, Systemstep: 0.00012207
+
+Sync-Point 278, Time: 0.174438, Nf = 0000000031, Systemstep: 0.00012207
+
+Sync-Point 279, Time: 0.174561, Nf = 0000000176, Systemstep: 0.00012207
+
+Sync-Point 280, Time: 0.174683, Nf = 0000000039, Systemstep: 0.00012207
+
+Sync-Point 281, Time: 0.174805, Nf = 0000000363, Systemstep: 0.00012207
+
+Sync-Point 282, Time: 0.174927, Nf = 0000000029, Systemstep: 0.00012207
+
+Sync-Point 283, Time: 0.175049, Nf = 0000000169, Systemstep: 0.00012207
+
+Sync-Point 284, Time: 0.175171, Nf = 0000000019, Systemstep: 0.00012207
+
+Sync-Point 285, Time: 0.175293, Nf = 0000000329, Systemstep: 0.00012207
+
+Sync-Point 286, Time: 0.175415, Nf = 0000000018, Systemstep: 0.00012207
+
+Sync-Point 287, Time: 0.175537, Nf = 0000000161, Systemstep: 0.00012207
+
+Sync-Point 288, Time: 0.175659, Nf = 0000000014, Systemstep: 0.00012207
+
+Sync-Point 289, Time: 0.175781, Nf = 0000034390, Systemstep: 0.00012207
+
+Sync-Point 290, Time: 0.175903, Nf = 0000000006, Systemstep: 0.00012207
+
+Sync-Point 291, Time: 0.176025, Nf = 0000000130, Systemstep: 0.00012207
+
+Sync-Point 292, Time: 0.176147, Nf = 0000000018, Systemstep: 0.00012207
+
+Sync-Point 293, Time: 0.176208, Nf = 0000000002, Systemstep: 6.10352e-05
+
+Sync-Point 294, Time: 0.17627, Nf = 0000000401, Systemstep: 6.10352e-05
+
+Sync-Point 295, Time: 0.176331, Nf = 0000000008, Systemstep: 6.10352e-05
+
+Sync-Point 296, Time: 0.176392, Nf = 0000000051, Systemstep: 6.10352e-05
+
+Sync-Point 297, Time: 0.176453, Nf = 0000000004, Systemstep: 6.10352e-05
+
+Sync-Point 298, Time: 0.176514, Nf = 0000000309, Systemstep: 6.10352e-05
+
+Sync-Point 299, Time: 0.176636, Nf = 0000000068, Systemstep: 0.00012207
+
+Sync-Point 300, Time: 0.176758, Nf = 0000000489, Systemstep: 0.00012207
+
+Sync-Point 301, Time: 0.17688, Nf = 0000000054, Systemstep: 0.00012207
+
+Sync-Point 302, Time: 0.177002, Nf = 0000000351, Systemstep: 0.00012207
+
+Sync-Point 303, Time: 0.177124, Nf = 0000000039, Systemstep: 0.00012207
+
+Sync-Point 304, Time: 0.177246, Nf = 0000000487, Systemstep: 0.00012207
+
+Sync-Point 305, Time: 0.177368, Nf = 0000000025, Systemstep: 0.00012207
+
+Sync-Point 306, Time: 0.17749, Nf = 0000000294, Systemstep: 0.00012207
+
+Sync-Point 307, Time: 0.177612, Nf = 0000000042, Systemstep: 0.00012207
+
+Sync-Point 308, Time: 0.177734, Nf = 0000008618, Systemstep: 0.00012207
+
+Sync-Point 309, Time: 0.177856, Nf = 0000000026, Systemstep: 0.00012207
+
+Sync-Point 310, Time: 0.177979, Nf = 0000000365, Systemstep: 0.00012207
+
+Sync-Point 311, Time: 0.178101, Nf = 0000000017, Systemstep: 0.00012207
+
+Sync-Point 312, Time: 0.178223, Nf = 0000000567, Systemstep: 0.00012207
+
+Sync-Point 313, Time: 0.178345, Nf = 0000000022, Systemstep: 0.00012207
+
+Sync-Point 314, Time: 0.178467, Nf = 0000000390, Systemstep: 0.00012207
+
+Sync-Point 315, Time: 0.178589, Nf = 0000000029, Systemstep: 0.00012207
+
+Sync-Point 316, Time: 0.178711, Nf = 0000000674, Systemstep: 0.00012207
+
+Sync-Point 317, Time: 0.178833, Nf = 0000000033, Systemstep: 0.00012207
+
+Sync-Point 318, Time: 0.178955, Nf = 0000000468, Systemstep: 0.00012207
+
+Sync-Point 319, Time: 0.179077, Nf = 0000000027, Systemstep: 0.00012207
+
+Sync-Point 320, Time: 0.179199, Nf = 0000000672, Systemstep: 0.00012207
+
+Sync-Point 321, Time: 0.179321, Nf = 0000000035, Systemstep: 0.00012207
+
+Sync-Point 322, Time: 0.179443, Nf = 0000000468, Systemstep: 0.00012207
+
+Sync-Point 323, Time: 0.179565, Nf = 0000000038, Systemstep: 0.00012207
+
+Sync-Point 324, Time: 0.179688, Nf = 0000068020, Systemstep: 0.00012207
+
+Sync-Point 325, Time: 0.17981, Nf = 0000000010, Systemstep: 0.00012207
+
+Sync-Point 326, Time: 0.179932, Nf = 0000000482, Systemstep: 0.00012207
+
+Sync-Point 327, Time: 0.180054, Nf = 0000000008, Systemstep: 0.00012207
+
+Sync-Point 328, Time: 0.180176, Nf = 0000000788, Systemstep: 0.00012207
+
+Sync-Point 329, Time: 0.180298, Nf = 0000000003, Systemstep: 0.00012207
+
+Sync-Point 330, Time: 0.18042, Nf = 0000000465, Systemstep: 0.00012207
+
+Sync-Point 331, Time: 0.180542, Nf = 0000000003, Systemstep: 0.00012207
+
+Sync-Point 332, Time: 0.180664, Nf = 0000000909, Systemstep: 0.00012207
+
+Sync-Point 333, Time: 0.180786, Nf = 0000000005, Systemstep: 0.00012207
+
+Sync-Point 334, Time: 0.180908, Nf = 0000000364, Systemstep: 0.00012207
+
+Sync-Point 335, Time: 0.18103, Nf = 0000000004, Systemstep: 0.00012207
+
+Sync-Point 336, Time: 0.181152, Nf = 0000000892, Systemstep: 0.00012207
+
+Sync-Point 337, Time: 0.181274, Nf = 0000000012, Systemstep: 0.00012207
+
+Sync-Point 338, Time: 0.181396, Nf = 0000000366, Systemstep: 0.00012207
+
+Sync-Point 339, Time: 0.181519, Nf = 0000000005, Systemstep: 0.00012207
+
+Sync-Point 340, Time: 0.181641, Nf = 0000009181, Systemstep: 0.00012207
+
+Sync-Point 341, Time: 0.181763, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 342, Time: 0.181885, Nf = 0000000276, Systemstep: 0.00012207
+
+Sync-Point 343, Time: 0.182007, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 344, Time: 0.182129, Nf = 0000001010, Systemstep: 0.00012207
+
+Sync-Point 345, Time: 0.182251, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 346, Time: 0.182373, Nf = 0000000266, Systemstep: 0.00012207
+
+Sync-Point 347, Time: 0.182495, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 348, Time: 0.182617, Nf = 0000001171, Systemstep: 0.00012207
+
+Sync-Point 349, Time: 0.182739, Nf = 0000000002, Systemstep: 0.00012207
+
+Sync-Point 350, Time: 0.182861, Nf = 0000000249, Systemstep: 0.00012207
+
+Sync-Point 351, Time: 0.182983, Nf = 0000000002, Systemstep: 0.00012207
+
+Sync-Point 352, Time: 0.183105, Nf = 0000001129, Systemstep: 0.00012207
+
+Sync-Point 353, Time: 0.183228, Nf = 0000000005, Systemstep: 0.00012207
+
+Sync-Point 354, Time: 0.18335, Nf = 0000000238, Systemstep: 0.00012207
+
+Sync-Point 355, Time: 0.183472, Nf = 0000000002, Systemstep: 0.00012207
+
+Sync-Point 356, Time: 0.183594, Nf = 0000034236, Systemstep: 0.00012207
+
+Sync-Point 357, Time: 0.183716, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 358, Time: 0.183838, Nf = 0000000199, Systemstep: 0.00012207
+
+Sync-Point 359, Time: 0.18396, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 360, Time: 0.184082, Nf = 0000001242, Systemstep: 0.00012207
+
+Sync-Point 361, Time: 0.184204, Nf = 0000000002, Systemstep: 0.00012207
+
+Sync-Point 362, Time: 0.184326, Nf = 0000000149, Systemstep: 0.00012207
+
+Sync-Point 363, Time: 0.184448, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 364, Time: 0.18457, Nf = 0000001418, Systemstep: 0.00012207
+
+Sync-Point 365, Time: 0.184692, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 366, Time: 0.184814, Nf = 0000000109, Systemstep: 0.00012207
+
+Sync-Point 367, Time: 0.184937, Nf = 0000000003, Systemstep: 0.00012207
+
+Sync-Point 368, Time: 0.185059, Nf = 0000001335, Systemstep: 0.00012207
+
+Sync-Point 369, Time: 0.185181, Nf = 0000000003, Systemstep: 0.00012207
+
+Sync-Point 370, Time: 0.185303, Nf = 0000000084, Systemstep: 0.00012207
+
+Sync-Point 371, Time: 0.185425, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 372, Time: 0.185547, Nf = 0000009380, Systemstep: 0.00012207
+
+Sync-Point 373, Time: 0.185669, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 374, Time: 0.185791, Nf = 0000000076, Systemstep: 0.00012207
+
+Sync-Point 375, Time: 0.185913, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 376, Time: 0.186035, Nf = 0000001425, Systemstep: 0.00012207
+
+Sync-Point 377, Time: 0.186157, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 378, Time: 0.186279, Nf = 0000000050, Systemstep: 0.00012207
+
+Sync-Point 379, Time: 0.186401, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 380, Time: 0.186523, Nf = 0000001665, Systemstep: 0.00012207
+
+Sync-Point 381, Time: 0.186646, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 382, Time: 0.186768, Nf = 0000000032, Systemstep: 0.00012207
+
+Sync-Point 383, Time: 0.18689, Nf = 0000000003, Systemstep: 0.00012207
+
+Sync-Point 384, Time: 0.187012, Nf = 0000001432, Systemstep: 0.00012207
+
+Sync-Point 385, Time: 0.187134, Nf = 0000000002, Systemstep: 0.00012207
+
+Sync-Point 386, Time: 0.187256, Nf = 0000000024, Systemstep: 0.00012207
+
+Sync-Point 387, Time: 0.187378, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 388, Time: 0.1875, Nf = 0000110000, Systemstep: 0.00012207
+
+Sync-Point 389, Time: 0.187622, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 390, Time: 0.187744, Nf = 0000000019, Systemstep: 0.00012207
+
+Sync-Point 391, Time: 0.187866, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 392, Time: 0.187988, Nf = 0000001515, Systemstep: 0.00012207
+
+Sync-Point 393, Time: 0.18811, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 394, Time: 0.188232, Nf = 0000000008, Systemstep: 0.00012207
+
+Sync-Point 395, Time: 0.188354, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 396, Time: 0.188477, Nf = 0000001919, Systemstep: 0.00012207
+
+Sync-Point 397, Time: 0.188599, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 398, Time: 0.188721, Nf = 0000000013, Systemstep: 0.00012207
+
+Sync-Point 399, Time: 0.188843, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 400, Time: 0.188965, Nf = 0000001664, Systemstep: 0.00012207
+
+Sync-Point 401, Time: 0.189087, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 402, Time: 0.189209, Nf = 0000000016, Systemstep: 0.00012207
+
+Sync-Point 403, Time: 0.189331, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 404, Time: 0.189453, Nf = 0000009413, Systemstep: 0.00012207
+
+Sync-Point 405, Time: 0.189575, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 406, Time: 0.189697, Nf = 0000000012, Systemstep: 0.00012207
+
+Sync-Point 407, Time: 0.189819, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 408, Time: 0.189941, Nf = 0000001847, Systemstep: 0.00012207
+
+Sync-Point 409, Time: 0.190063, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 410, Time: 0.190186, Nf = 0000000009, Systemstep: 0.00012207
+
+Sync-Point 411, Time: 0.190308, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 412, Time: 0.19043, Nf = 0000002204, Systemstep: 0.00012207
+
+Sync-Point 413, Time: 0.190552, Nf = 0000000002, Systemstep: 0.00012207
+
+Sync-Point 414, Time: 0.190674, Nf = 0000000007, Systemstep: 0.00012207
+
+Sync-Point 415, Time: 0.190796, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 416, Time: 0.190918, Nf = 0000001830, Systemstep: 0.00012207
+
+Sync-Point 417, Time: 0.19104, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 418, Time: 0.191162, Nf = 0000000004, Systemstep: 0.00012207
+
+Sync-Point 419, Time: 0.191284, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 420, Time: 0.191406, Nf = 0000034040, Systemstep: 0.00012207
+
+Sync-Point 421, Time: 0.191528, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 422, Time: 0.19165, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 423, Time: 0.191772, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 424, Time: 0.191895, Nf = 0000001650, Systemstep: 0.00012207
+
+Sync-Point 425, Time: 0.192017, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 426, Time: 0.192139, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 427, Time: 0.192261, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 428, Time: 0.192383, Nf = 0000002507, Systemstep: 0.00012207
+
+Sync-Point 429, Time: 0.192505, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 430, Time: 0.192627, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 431, Time: 0.192749, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 432, Time: 0.192871, Nf = 0000001411, Systemstep: 0.00012207
+
+Sync-Point 433, Time: 0.192993, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 434, Time: 0.193115, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 435, Time: 0.193237, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 436, Time: 0.193359, Nf = 0000009480, Systemstep: 0.00012207
+
+Sync-Point 437, Time: 0.193481, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 438, Time: 0.193604, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 439, Time: 0.193726, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 440, Time: 0.193848, Nf = 0000001370, Systemstep: 0.00012207
+
+Sync-Point 441, Time: 0.19397, Nf = 0000000002, Systemstep: 0.00012207
+
+Sync-Point 442, Time: 0.194092, Nf = 0000000002, Systemstep: 0.00012207
+
+Sync-Point 443, Time: 0.194214, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 444, Time: 0.194336, Nf = 0000002751, Systemstep: 0.00012207
+
+Sync-Point 445, Time: 0.194458, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 446, Time: 0.19458, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 447, Time: 0.194702, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 448, Time: 0.194824, Nf = 0000001226, Systemstep: 0.00012207
+
+Sync-Point 449, Time: 0.194946, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 450, Time: 0.195068, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 451, Time: 0.19519, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 452, Time: 0.195312, Nf = 0000067621, Systemstep: 0.00012207
+
+Sync-Point 453, Time: 0.195435, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 454, Time: 0.195557, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 455, Time: 0.195679, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 456, Time: 0.195801, Nf = 0000001111, Systemstep: 0.00012207
+
+Sync-Point 457, Time: 0.195923, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 458, Time: 0.196045, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 459, Time: 0.196167, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 460, Time: 0.196289, Nf = 0000003021, Systemstep: 0.00012207
+
+Sync-Point 461, Time: 0.196411, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 462, Time: 0.196533, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 463, Time: 0.196655, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 464, Time: 0.196777, Nf = 0000001081, Systemstep: 0.00012207
+
+Sync-Point 465, Time: 0.196899, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 466, Time: 0.197021, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 467, Time: 0.197144, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 468, Time: 0.197266, Nf = 0000009591, Systemstep: 0.00012207
+
+Sync-Point 469, Time: 0.197388, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 470, Time: 0.19751, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 471, Time: 0.197632, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 472, Time: 0.197754, Nf = 0000001056, Systemstep: 0.00012207
+
+Sync-Point 473, Time: 0.197876, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 474, Time: 0.197998, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 475, Time: 0.19812, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 476, Time: 0.198242, Nf = 0000003244, Systemstep: 0.00012207
+
+Sync-Point 477, Time: 0.198364, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 478, Time: 0.198486, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 479, Time: 0.198608, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 480, Time: 0.19873, Nf = 0000001090, Systemstep: 0.00012207
+
+Sync-Point 481, Time: 0.198853, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 482, Time: 0.198975, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 483, Time: 0.199097, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 484, Time: 0.199219, Nf = 0000033911, Systemstep: 0.00012207
+
+Sync-Point 485, Time: 0.199341, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 486, Time: 0.199463, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 487, Time: 0.199585, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 488, Time: 0.199707, Nf = 0000001035, Systemstep: 0.00012207
+
+Sync-Point 489, Time: 0.199829, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 490, Time: 0.199951, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 491, Time: 0.200073, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 492, Time: 0.200195, Nf = 0000003485, Systemstep: 0.00012207
+
+Sync-Point 493, Time: 0.200317, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 494, Time: 0.200439, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 495, Time: 0.200562, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 496, Time: 0.200684, Nf = 0000000941, Systemstep: 0.00012207
+
+Sync-Point 497, Time: 0.200806, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 498, Time: 0.200928, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 499, Time: 0.20105, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 500, Time: 0.201172, Nf = 0000009651, Systemstep: 0.00012207
+
+Sync-Point 501, Time: 0.201294, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 502, Time: 0.201416, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 503, Time: 0.201538, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 504, Time: 0.20166, Nf = 0000000806, Systemstep: 0.00012207
+
+Sync-Point 505, Time: 0.201782, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 506, Time: 0.201904, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 507, Time: 0.202026, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 508, Time: 0.202148, Nf = 0000003686, Systemstep: 0.00012207
+
+Sync-Point 509, Time: 0.202271, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 510, Time: 0.202393, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 511, Time: 0.202515, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 512, Time: 0.202637, Nf = 0000000678, Systemstep: 0.00012207
+
+Sync-Point 513, Time: 0.202759, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 514, Time: 0.202881, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 515, Time: 0.203003, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 516, Time: 0.203125, Nf = 0000099962, Systemstep: 0.00012207
+
+Sync-Point 517, Time: 0.203247, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 518, Time: 0.203369, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 519, Time: 0.203491, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 520, Time: 0.203613, Nf = 0000000509, Systemstep: 0.00012207
+
+Sync-Point 521, Time: 0.203735, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 522, Time: 0.203857, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 523, Time: 0.203979, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 524, Time: 0.204102, Nf = 0000003811, Systemstep: 0.00012207
+
+Sync-Point 525, Time: 0.204224, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 526, Time: 0.204346, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 527, Time: 0.204468, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 528, Time: 0.20459, Nf = 0000000369, Systemstep: 0.00012207
+
+Sync-Point 529, Time: 0.204712, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 530, Time: 0.204834, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 531, Time: 0.204956, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 532, Time: 0.205078, Nf = 0000009739, Systemstep: 0.00012207
+
+Sync-Point 533, Time: 0.2052, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 534, Time: 0.205322, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 535, Time: 0.205444, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 536, Time: 0.205566, Nf = 0000000280, Systemstep: 0.00012207
+
+Sync-Point 537, Time: 0.205688, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 538, Time: 0.205811, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 539, Time: 0.205933, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 540, Time: 0.206055, Nf = 0000003850, Systemstep: 0.00012207
+
+Sync-Point 541, Time: 0.206177, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 542, Time: 0.206299, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 543, Time: 0.206421, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 544, Time: 0.206543, Nf = 0000000185, Systemstep: 0.00012207
+
+Sync-Point 545, Time: 0.206665, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 546, Time: 0.206787, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 547, Time: 0.206909, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 548, Time: 0.207031, Nf = 0000033722, Systemstep: 0.00012207
+
+Sync-Point 549, Time: 0.207153, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 550, Time: 0.207275, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 551, Time: 0.207397, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 552, Time: 0.20752, Nf = 0000000117, Systemstep: 0.00012207
+
+Sync-Point 553, Time: 0.207642, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 554, Time: 0.207764, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 555, Time: 0.207886, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 556, Time: 0.208008, Nf = 0000003771, Systemstep: 0.00012207
+
+Sync-Point 557, Time: 0.20813, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 558, Time: 0.208252, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 559, Time: 0.208374, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 560, Time: 0.208496, Nf = 0000000070, Systemstep: 0.00012207
+
+Sync-Point 561, Time: 0.208618, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 562, Time: 0.20874, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 563, Time: 0.208862, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 564, Time: 0.208984, Nf = 0000009811, Systemstep: 0.00012207
+
+Sync-Point 565, Time: 0.209106, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 566, Time: 0.209229, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 567, Time: 0.209351, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 568, Time: 0.209473, Nf = 0000000031, Systemstep: 0.00012207
+
+Sync-Point 569, Time: 0.209595, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 570, Time: 0.209717, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 571, Time: 0.209839, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 572, Time: 0.209961, Nf = 0000003563, Systemstep: 0.00012207
+
+Sync-Point 573, Time: 0.210083, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 574, Time: 0.210205, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 575, Time: 0.210327, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 576, Time: 0.210449, Nf = 0000000012, Systemstep: 0.00012207
+
+Sync-Point 577, Time: 0.210571, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 578, Time: 0.210693, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 579, Time: 0.210815, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 580, Time: 0.210938, Nf = 0000067061, Systemstep: 0.00012207
+
+Sync-Point 581, Time: 0.21106, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 582, Time: 0.211182, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 583, Time: 0.211304, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 584, Time: 0.211426, Nf = 0000000005, Systemstep: 0.00012207
+
+Sync-Point 585, Time: 0.211548, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 586, Time: 0.21167, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 587, Time: 0.211792, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 588, Time: 0.211914, Nf = 0000003322, Systemstep: 0.00012207
+
+Sync-Point 589, Time: 0.212036, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 590, Time: 0.212158, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 591, Time: 0.21228, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 592, Time: 0.212402, Nf = 0000000002, Systemstep: 0.00012207
+
+Sync-Point 593, Time: 0.212524, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 594, Time: 0.212646, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 595, Time: 0.212769, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 596, Time: 0.212891, Nf = 0000009825, Systemstep: 0.00012207
+
+Sync-Point 597, Time: 0.213013, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 598, Time: 0.213135, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 599, Time: 0.213257, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 600, Time: 0.213379, Nf = 0000000002, Systemstep: 0.00012207
+
+Sync-Point 601, Time: 0.213501, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 602, Time: 0.213623, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 603, Time: 0.213745, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 604, Time: 0.213867, Nf = 0000003087, Systemstep: 0.00012207
+
+Sync-Point 605, Time: 0.213989, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 606, Time: 0.214111, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 607, Time: 0.214233, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 608, Time: 0.214355, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 609, Time: 0.214478, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 610, Time: 0.2146, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 611, Time: 0.214722, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 612, Time: 0.214844, Nf = 0000033614, Systemstep: 0.00012207
+
+Sync-Point 613, Time: 0.214966, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 614, Time: 0.215088, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 615, Time: 0.21521, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 616, Time: 0.215332, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 617, Time: 0.215454, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 618, Time: 0.215576, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 619, Time: 0.215698, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 620, Time: 0.21582, Nf = 0000002871, Systemstep: 0.00012207
+
+Sync-Point 621, Time: 0.215942, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 622, Time: 0.216064, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 623, Time: 0.216187, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 624, Time: 0.216309, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 625, Time: 0.216431, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 626, Time: 0.216553, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 627, Time: 0.216675, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 628, Time: 0.216797, Nf = 0000009731, Systemstep: 0.00012207
+
+Sync-Point 629, Time: 0.216919, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 630, Time: 0.217041, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 631, Time: 0.217163, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 632, Time: 0.217285, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 633, Time: 0.217407, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 634, Time: 0.217529, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 635, Time: 0.217651, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 636, Time: 0.217773, Nf = 0000002647, Systemstep: 0.00012207
+
+Sync-Point 637, Time: 0.217896, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 638, Time: 0.218018, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 639, Time: 0.21814, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 640, Time: 0.218262, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 641, Time: 0.218384, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 642, Time: 0.218506, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 643, Time: 0.218628, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 644, Time: 0.21875, Nf = 0000109778, Systemstep: 0.00012207
+
+Sync-Point 645, Time: 0.218872, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 646, Time: 0.218994, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 647, Time: 0.219116, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 648, Time: 0.219238, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 649, Time: 0.21936, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 650, Time: 0.219482, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 651, Time: 0.219604, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 652, Time: 0.219727, Nf = 0000002375, Systemstep: 0.00012207
+
+Sync-Point 653, Time: 0.219849, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 654, Time: 0.219971, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 655, Time: 0.220093, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 656, Time: 0.220215, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 657, Time: 0.220337, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 658, Time: 0.220459, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 659, Time: 0.220581, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 660, Time: 0.220703, Nf = 0000009650, Systemstep: 0.00012207
+
+Sync-Point 661, Time: 0.220825, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 662, Time: 0.220947, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 663, Time: 0.221069, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 664, Time: 0.221191, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 665, Time: 0.221313, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 666, Time: 0.221436, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 667, Time: 0.221558, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 668, Time: 0.22168, Nf = 0000001978, Systemstep: 0.00012207
+
+Sync-Point 669, Time: 0.221802, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 670, Time: 0.221924, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 671, Time: 0.222046, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 672, Time: 0.222168, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 673, Time: 0.22229, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 674, Time: 0.222412, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 675, Time: 0.222534, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 676, Time: 0.222656, Nf = 0000033443, Systemstep: 0.00012207
+
+Sync-Point 677, Time: 0.222778, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 678, Time: 0.2229, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 679, Time: 0.223022, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 680, Time: 0.223145, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 681, Time: 0.223267, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 682, Time: 0.223389, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 683, Time: 0.223511, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 684, Time: 0.223633, Nf = 0000001516, Systemstep: 0.00012207
+
+Sync-Point 685, Time: 0.223755, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 686, Time: 0.223877, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 687, Time: 0.223999, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 688, Time: 0.224121, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 689, Time: 0.224243, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 690, Time: 0.224365, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 691, Time: 0.224487, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 692, Time: 0.224609, Nf = 0000009546, Systemstep: 0.00012207
+
+Sync-Point 693, Time: 0.224731, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 694, Time: 0.224854, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 695, Time: 0.224976, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 696, Time: 0.225098, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 697, Time: 0.22522, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 698, Time: 0.225342, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 699, Time: 0.225464, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 700, Time: 0.225586, Nf = 0000000974, Systemstep: 0.00012207
+
+Sync-Point 701, Time: 0.225708, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 702, Time: 0.22583, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 703, Time: 0.225952, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 704, Time: 0.226074, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 705, Time: 0.226196, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 706, Time: 0.226318, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 707, Time: 0.22644, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 708, Time: 0.226562, Nf = 0000066432, Systemstep: 0.00012207
+
+Sync-Point 709, Time: 0.226685, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 710, Time: 0.226807, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 711, Time: 0.226929, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 712, Time: 0.227051, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 713, Time: 0.227173, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 714, Time: 0.227295, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 715, Time: 0.227417, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 716, Time: 0.227539, Nf = 0000000507, Systemstep: 0.00012207
+
+Sync-Point 717, Time: 0.227661, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 718, Time: 0.227783, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 719, Time: 0.227905, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 720, Time: 0.228027, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 721, Time: 0.228149, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 722, Time: 0.228271, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 723, Time: 0.228394, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 724, Time: 0.228516, Nf = 0000009528, Systemstep: 0.00012207
+
+Sync-Point 725, Time: 0.228638, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 726, Time: 0.22876, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 727, Time: 0.228882, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 728, Time: 0.229004, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 729, Time: 0.229126, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 730, Time: 0.229248, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 731, Time: 0.22937, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 732, Time: 0.229492, Nf = 0000000198, Systemstep: 0.00012207
+
+Sync-Point 733, Time: 0.229614, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 734, Time: 0.229736, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 735, Time: 0.229858, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 736, Time: 0.22998, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 737, Time: 0.230103, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 738, Time: 0.230225, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 739, Time: 0.230347, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 740, Time: 0.230469, Nf = 0000033324, Systemstep: 0.00012207
+
+Sync-Point 741, Time: 0.230591, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 742, Time: 0.230713, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 743, Time: 0.230835, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 744, Time: 0.230957, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 745, Time: 0.231079, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 746, Time: 0.231201, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 747, Time: 0.231323, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 748, Time: 0.231445, Nf = 0000000074, Systemstep: 0.00012207
+
+Sync-Point 749, Time: 0.231567, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 750, Time: 0.231689, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 751, Time: 0.231812, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 752, Time: 0.231934, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 753, Time: 0.232056, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 754, Time: 0.232178, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 755, Time: 0.2323, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 756, Time: 0.232422, Nf = 0000009361, Systemstep: 0.00012207
+
+Sync-Point 757, Time: 0.232544, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 758, Time: 0.232666, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 759, Time: 0.232788, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 760, Time: 0.23291, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 761, Time: 0.233032, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 762, Time: 0.233154, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 763, Time: 0.233276, Nf = 0000000001, Systemstep: 0.00012207
+
+Sync-Point 764, Time: 0.233398, Nf = 0000000022, Systemstep: 0.00012207
+
+Sync-Point 765, Time: 0.233643, Nf = 0000000001, Systemstep: 0.000244141
+
+Sync-Point 766, Time: 0.233887, Nf = 0000000001, Systemstep: 0.000244141
+
+Sync-Point 767, Time: 0.234131, Nf = 0000000001, Systemstep: 0.000244141
+
+Sync-Point 768, Time: 0.234375, Nf = 0000099868, Systemstep: 0.000244141
+
+Sync-Point 769, Time: 0.234619, Nf = 0000000001, Systemstep: 0.000244141
+
+Sync-Point 770, Time: 0.234863, Nf = 0000000001, Systemstep: 0.000244141
+
+Sync-Point 771, Time: 0.235107, Nf = 0000000001, Systemstep: 0.000244141
+
+Sync-Point 772, Time: 0.235352, Nf = 0000000006, Systemstep: 0.000244141
+
+Sync-Point 773, Time: 0.235596, Nf = 0000000001, Systemstep: 0.000244141
+
+Sync-Point 774, Time: 0.23584, Nf = 0000000001, Systemstep: 0.000244141
+
+Sync-Point 775, Time: 0.236084, Nf = 0000000001, Systemstep: 0.000244141
+
+Sync-Point 776, Time: 0.236328, Nf = 0000009155, Systemstep: 0.000244141
+
+Sync-Point 777, Time: 0.236572, Nf = 0000000001, Systemstep: 0.000244141
+
+Sync-Point 778, Time: 0.236816, Nf = 0000000001, Systemstep: 0.000244141
+
+Sync-Point 779, Time: 0.237061, Nf = 0000000001, Systemstep: 0.000244141
+
+Sync-Point 780, Time: 0.237305, Nf = 0000000015, Systemstep: 0.000244141
+
+Sync-Point 781, Time: 0.237549, Nf = 0000000002, Systemstep: 0.000244141
+
+Sync-Point 782, Time: 0.237793, Nf = 0000000005, Systemstep: 0.000244141
+
+Sync-Point 783, Time: 0.238037, Nf = 0000000001, Systemstep: 0.000244141
+
+Sync-Point 784, Time: 0.238281, Nf = 0000033191, Systemstep: 0.000244141
+
+Sync-Point 785, Time: 0.238525, Nf = 0000000001, Systemstep: 0.000244141
+
+Sync-Point 786, Time: 0.23877, Nf = 0000000002, Systemstep: 0.000244141
+
+Sync-Point 787, Time: 0.239014, Nf = 0000000002, Systemstep: 0.000244141
+
+Sync-Point 788, Time: 0.239258, Nf = 0000000027, Systemstep: 0.000244141
+
+Sync-Point 789, Time: 0.239502, Nf = 0000000002, Systemstep: 0.000244141
+
+Sync-Point 790, Time: 0.239746, Nf = 0000000003, Systemstep: 0.000244141
+
+Sync-Point 791, Time: 0.23999, Nf = 0000000001, Systemstep: 0.000244141
+
+Sync-Point 792, Time: 0.240234, Nf = 0000008496, Systemstep: 0.000244141
+
+Sync-Point 793, Time: 0.240479, Nf = 0000000001, Systemstep: 0.000244141
+
+Sync-Point 794, Time: 0.240723, Nf = 0000000001, Systemstep: 0.000244141
+
+Sync-Point 795, Time: 0.240967, Nf = 0000000001, Systemstep: 0.000244141
+
+Sync-Point 796, Time: 0.241211, Nf = 0000000029, Systemstep: 0.000244141
+
+Sync-Point 797, Time: 0.241455, Nf = 0000000001, Systemstep: 0.000244141
+
+Sync-Point 798, Time: 0.241699, Nf = 0000000002, Systemstep: 0.000244141
+
+Sync-Point 799, Time: 0.241943, Nf = 0000000001, Systemstep: 0.000244141
+
+Sync-Point 800, Time: 0.242188, Nf = 0000065865, Systemstep: 0.000244141
+
+Sync-Point 801, Time: 0.242432, Nf = 0000000001, Systemstep: 0.000244141
+
+Sync-Point 802, Time: 0.242676, Nf = 0000000002, Systemstep: 0.000244141
+
+Sync-Point 803, Time: 0.24292, Nf = 0000000002, Systemstep: 0.000244141
+
+Sync-Point 804, Time: 0.243164, Nf = 0000000038, Systemstep: 0.000244141
+
+Sync-Point 805, Time: 0.243408, Nf = 0000000001, Systemstep: 0.000244141
+
+Sync-Point 806, Time: 0.243652, Nf = 0000000001, Systemstep: 0.000244141
+
+Sync-Point 807, Time: 0.243896, Nf = 0000000001, Systemstep: 0.000244141
+
+Sync-Point 808, Time: 0.244141, Nf = 0000007369, Systemstep: 0.000244141
+
+Sync-Point 809, Time: 0.245117, Nf = 0000000049, Systemstep: 0.000976562
+
+Sync-Point 810, Time: 0.246094, Nf = 0000033127, Systemstep: 0.000976562
+
+Sync-Point 811, Time: 0.24707, Nf = 0000000073, Systemstep: 0.000976562
+
+Sync-Point 812, Time: 0.248047, Nf = 0000006400, Systemstep: 0.000976562
+
+Sync-Point 813, Time: 0.248535, Nf = 0000000002, Systemstep: 0.000488281
+
+Sync-Point 814, Time: 0.249023, Nf = 0000000080, Systemstep: 0.000488281
+
+Sync-Point 815, Time: 0.249512, Nf = 0000000003, Systemstep: 0.000488281
+
+Sync-Point 816, Time: 0.25, Nf = 0000110000, Systemstep: 0.000488281
+
+Sync-Point 817, Time: 0.250488, Nf = 0000000005, Systemstep: 0.000488281
+
+Sync-Point 818, Time: 0.250977, Nf = 0000000094, Systemstep: 0.000488281
+
+Sync-Point 819, Time: 0.251465, Nf = 0000000006, Systemstep: 0.000488281
+
+Sync-Point 820, Time: 0.251953, Nf = 0000005747, Systemstep: 0.000488281
+
+Sync-Point 821, Time: 0.252441, Nf = 0000000009, Systemstep: 0.000488281
+
+Sync-Point 822, Time: 0.25293, Nf = 0000000099, Systemstep: 0.000488281
+
+Sync-Point 823, Time: 0.253418, Nf = 0000000009, Systemstep: 0.000488281
+
+Sync-Point 824, Time: 0.253906, Nf = 0000033105, Systemstep: 0.000488281
+
+Sync-Point 825, Time: 0.254395, Nf = 0000000010, Systemstep: 0.000488281
+
+Sync-Point 826, Time: 0.254883, Nf = 0000000107, Systemstep: 0.000488281
+
+Sync-Point 827, Time: 0.255371, Nf = 0000000008, Systemstep: 0.000488281
+
+Sync-Point 828, Time: 0.255859, Nf = 0000005439, Systemstep: 0.000488281
+
+Sync-Point 829, Time: 0.256348, Nf = 0000000006, Systemstep: 0.000488281
+
+Sync-Point 830, Time: 0.256836, Nf = 0000000104, Systemstep: 0.000488281
+
+Sync-Point 831, Time: 0.257324, Nf = 0000000005, Systemstep: 0.000488281
+
+Sync-Point 832, Time: 0.257812, Nf = 0000065396, Systemstep: 0.000488281
+
+Sync-Point 833, Time: 0.258301, Nf = 0000000007, Systemstep: 0.000488281
+
+Sync-Point 834, Time: 0.258789, Nf = 0000000100, Systemstep: 0.000488281
+
+Sync-Point 835, Time: 0.259277, Nf = 0000000007, Systemstep: 0.000488281
+
+Sync-Point 836, Time: 0.259766, Nf = 0000005275, Systemstep: 0.000488281
+
+Sync-Point 837, Time: 0.260254, Nf = 0000000010, Systemstep: 0.000488281
+
+Sync-Point 838, Time: 0.260742, Nf = 0000000083, Systemstep: 0.000488281
+
+Sync-Point 839, Time: 0.26123, Nf = 0000000011, Systemstep: 0.000488281
+
+Sync-Point 840, Time: 0.261719, Nf = 0000033217, Systemstep: 0.000488281
+
+Sync-Point 841, Time: 0.262207, Nf = 0000000010, Systemstep: 0.000488281
+
+Sync-Point 842, Time: 0.262695, Nf = 0000000068, Systemstep: 0.000488281
+
+Sync-Point 843, Time: 0.263184, Nf = 0000000009, Systemstep: 0.000488281
+
+Sync-Point 844, Time: 0.263672, Nf = 0000005196, Systemstep: 0.000488281
+
+Sync-Point 845, Time: 0.26416, Nf = 0000000010, Systemstep: 0.000488281
+
+Sync-Point 846, Time: 0.264648, Nf = 0000000072, Systemstep: 0.000488281
+
+Sync-Point 847, Time: 0.265137, Nf = 0000000007, Systemstep: 0.000488281
+
+Sync-Point 848, Time: 0.265625, Nf = 0000099632, Systemstep: 0.000488281
+
+Sync-Point 849, Time: 0.266113, Nf = 0000000006, Systemstep: 0.000488281
+
+Sync-Point 850, Time: 0.266602, Nf = 0000000076, Systemstep: 0.000488281
+
+Sync-Point 851, Time: 0.26709, Nf = 0000000006, Systemstep: 0.000488281
+
+Sync-Point 852, Time: 0.267578, Nf = 0000005121, Systemstep: 0.000488281
+
+Sync-Point 853, Time: 0.268066, Nf = 0000000004, Systemstep: 0.000488281
+
+Sync-Point 854, Time: 0.268555, Nf = 0000000078, Systemstep: 0.000488281
+
+Sync-Point 855, Time: 0.269043, Nf = 0000000002, Systemstep: 0.000488281
+
+Sync-Point 856, Time: 0.269531, Nf = 0000033264, Systemstep: 0.000488281
+
+Sync-Point 857, Time: 0.27002, Nf = 0000000002, Systemstep: 0.000488281
+
+Sync-Point 858, Time: 0.270508, Nf = 0000000073, Systemstep: 0.000488281
+
+Sync-Point 859, Time: 0.270996, Nf = 0000000001, Systemstep: 0.000488281
+
+Sync-Point 860, Time: 0.271484, Nf = 0000005061, Systemstep: 0.000488281
+
+Sync-Point 861, Time: 0.271973, Nf = 0000000001, Systemstep: 0.000488281
+
+Sync-Point 862, Time: 0.272461, Nf = 0000000070, Systemstep: 0.000488281
+
+Sync-Point 863, Time: 0.272949, Nf = 0000000001, Systemstep: 0.000488281
+
+Sync-Point 864, Time: 0.273438, Nf = 0000065005, Systemstep: 0.000488281
+
+Sync-Point 865, Time: 0.273926, Nf = 0000000001, Systemstep: 0.000488281
+
+Sync-Point 866, Time: 0.274414, Nf = 0000000055, Systemstep: 0.000488281
+
+Sync-Point 867, Time: 0.274902, Nf = 0000000001, Systemstep: 0.000488281
+
+Sync-Point 868, Time: 0.275391, Nf = 0000005060, Systemstep: 0.000488281
+
+Sync-Point 869, Time: 0.275879, Nf = 0000000001, Systemstep: 0.000488281
+
+Sync-Point 870, Time: 0.276367, Nf = 0000000045, Systemstep: 0.000488281
+
+Sync-Point 871, Time: 0.276855, Nf = 0000000001, Systemstep: 0.000488281
+
+Sync-Point 872, Time: 0.277344, Nf = 0000033277, Systemstep: 0.000488281
+
+Sync-Point 873, Time: 0.277832, Nf = 0000000001, Systemstep: 0.000488281
+
+Sync-Point 874, Time: 0.27832, Nf = 0000000041, Systemstep: 0.000488281
+
+Sync-Point 875, Time: 0.278809, Nf = 0000000001, Systemstep: 0.000488281
+
+Sync-Point 876, Time: 0.279297, Nf = 0000005078, Systemstep: 0.000488281
+
+Sync-Point 877, Time: 0.279785, Nf = 0000000001, Systemstep: 0.000488281
+
+Sync-Point 878, Time: 0.280273, Nf = 0000000031, Systemstep: 0.000488281
+
+Sync-Point 879, Time: 0.280762, Nf = 0000000001, Systemstep: 0.000488281
+
+Sync-Point 880, Time: 0.28125, Nf = 0000109766, Systemstep: 0.000488281
+
+Sync-Point 881, Time: 0.281738, Nf = 0000000001, Systemstep: 0.000488281
+
+Sync-Point 882, Time: 0.282227, Nf = 0000000020, Systemstep: 0.000488281
+
+Sync-Point 883, Time: 0.283203, Nf = 0000005074, Systemstep: 0.000976562
+
+Sync-Point 884, Time: 0.28418, Nf = 0000000013, Systemstep: 0.000976562
+
+Sync-Point 885, Time: 0.285156, Nf = 0000033251, Systemstep: 0.000976562
+
+Sync-Point 886, Time: 0.286133, Nf = 0000000011, Systemstep: 0.000976562
+
+Sync-Point 887, Time: 0.287109, Nf = 0000005097, Systemstep: 0.000976562
+
+Sync-Point 888, Time: 0.288086, Nf = 0000000012, Systemstep: 0.000976562
+
+Sync-Point 889, Time: 0.289062, Nf = 0000064809, Systemstep: 0.000976562
+
+Sync-Point 890, Time: 0.290039, Nf = 0000000007, Systemstep: 0.000976562
+
+Sync-Point 891, Time: 0.291016, Nf = 0000005013, Systemstep: 0.000976562
+
+Sync-Point 892, Time: 0.291992, Nf = 0000000005, Systemstep: 0.000976562
+
+Sync-Point 893, Time: 0.292969, Nf = 0000033018, Systemstep: 0.000976562
+
+Sync-Point 894, Time: 0.293945, Nf = 0000000003, Systemstep: 0.000976562
+
+Sync-Point 895, Time: 0.294922, Nf = 0000005041, Systemstep: 0.000976562
+
+Sync-Point 896, Time: 0.295898, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 897, Time: 0.296875, Nf = 0000099254, Systemstep: 0.000976562
+
+Sync-Point 898, Time: 0.297852, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 899, Time: 0.298828, Nf = 0000005014, Systemstep: 0.000976562
+
+Sync-Point 900, Time: 0.299805, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 901, Time: 0.300781, Nf = 0000032648, Systemstep: 0.000976562
+
+Sync-Point 902, Time: 0.301758, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 903, Time: 0.302734, Nf = 0000004967, Systemstep: 0.000976562
+
+Sync-Point 904, Time: 0.303711, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 905, Time: 0.304688, Nf = 0000064873, Systemstep: 0.000976562
+
+Sync-Point 906, Time: 0.305176, Nf = 0000000001, Systemstep: 0.000488281
+
+Sync-Point 907, Time: 0.305664, Nf = 0000000001, Systemstep: 0.000488281
+
+Sync-Point 908, Time: 0.306641, Nf = 0000004901, Systemstep: 0.000976562
+
+Sync-Point 909, Time: 0.307617, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 910, Time: 0.308594, Nf = 0000032306, Systemstep: 0.000976562
+
+Sync-Point 911, Time: 0.30957, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 912, Time: 0.310547, Nf = 0000004862, Systemstep: 0.000976562
+
+Sync-Point 913, Time: 0.311523, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 914, Time: 0.3125, Nf = 0000110000, Systemstep: 0.000976562
+
+Sync-Point 915, Time: 0.313477, Nf = 0000000003, Systemstep: 0.000976562
+
+Sync-Point 916, Time: 0.314453, Nf = 0000004829, Systemstep: 0.000976562
+
+Sync-Point 917, Time: 0.31543, Nf = 0000000004, Systemstep: 0.000976562
+
+Sync-Point 918, Time: 0.316406, Nf = 0000031954, Systemstep: 0.000976562
+
+Sync-Point 919, Time: 0.317383, Nf = 0000000003, Systemstep: 0.000976562
+
+Sync-Point 920, Time: 0.318359, Nf = 0000004894, Systemstep: 0.000976562
+
+Sync-Point 921, Time: 0.319336, Nf = 0000000002, Systemstep: 0.000976562
+
+Sync-Point 922, Time: 0.320312, Nf = 0000064919, Systemstep: 0.000976562
+
+Sync-Point 923, Time: 0.321289, Nf = 0000000003, Systemstep: 0.000976562
+
+Sync-Point 924, Time: 0.322266, Nf = 0000004852, Systemstep: 0.000976562
+
+Sync-Point 925, Time: 0.323242, Nf = 0000000002, Systemstep: 0.000976562
+
+Sync-Point 926, Time: 0.324219, Nf = 0000031740, Systemstep: 0.000976562
+
+Sync-Point 927, Time: 0.325195, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 928, Time: 0.326172, Nf = 0000004872, Systemstep: 0.000976562
+
+Sync-Point 929, Time: 0.327148, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 930, Time: 0.328125, Nf = 0000098511, Systemstep: 0.000976562
+
+Sync-Point 931, Time: 0.329102, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 932, Time: 0.330078, Nf = 0000004883, Systemstep: 0.000976562
+
+Sync-Point 933, Time: 0.331055, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 934, Time: 0.332031, Nf = 0000031547, Systemstep: 0.000976562
+
+Sync-Point 935, Time: 0.333008, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 936, Time: 0.333984, Nf = 0000004887, Systemstep: 0.000976562
+
+Sync-Point 937, Time: 0.334961, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 938, Time: 0.335938, Nf = 0000064863, Systemstep: 0.000976562
+
+Sync-Point 939, Time: 0.336914, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 940, Time: 0.337891, Nf = 0000004861, Systemstep: 0.000976562
+
+Sync-Point 941, Time: 0.338867, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 942, Time: 0.339844, Nf = 0000031385, Systemstep: 0.000976562
+
+Sync-Point 943, Time: 0.34082, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 944, Time: 0.341797, Nf = 0000004746, Systemstep: 0.000976562
+
+Sync-Point 945, Time: 0.342773, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 946, Time: 0.34375, Nf = 0000109724, Systemstep: 0.000976562
+
+Sync-Point 947, Time: 0.344727, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 948, Time: 0.345703, Nf = 0000004616, Systemstep: 0.000976562
+
+Sync-Point 949, Time: 0.34668, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 950, Time: 0.347656, Nf = 0000031207, Systemstep: 0.000976562
+
+Sync-Point 951, Time: 0.348633, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 952, Time: 0.349609, Nf = 0000004518, Systemstep: 0.000976562
+
+Sync-Point 953, Time: 0.350586, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 954, Time: 0.351562, Nf = 0000064761, Systemstep: 0.000976562
+
+Sync-Point 955, Time: 0.353516, Nf = 0000004388, Systemstep: 0.00195312
+
+Sync-Point 956, Time: 0.355469, Nf = 0000031090, Systemstep: 0.00195312
+
+Sync-Point 957, Time: 0.357422, Nf = 0000004227, Systemstep: 0.00195312
+
+Sync-Point 958, Time: 0.359375, Nf = 0000097748, Systemstep: 0.00195312
+
+Sync-Point 959, Time: 0.361328, Nf = 0000004010, Systemstep: 0.00195312
+
+Sync-Point 960, Time: 0.363281, Nf = 0000030958, Systemstep: 0.00195312
+
+Sync-Point 961, Time: 0.365234, Nf = 0000003864, Systemstep: 0.00195312
+
+Sync-Point 962, Time: 0.367188, Nf = 0000064334, Systemstep: 0.00195312
+
+Sync-Point 963, Time: 0.369141, Nf = 0000003680, Systemstep: 0.00195312
+
+Sync-Point 964, Time: 0.371094, Nf = 0000030852, Systemstep: 0.00195312
+
+Sync-Point 965, Time: 0.373047, Nf = 0000003515, Systemstep: 0.00195312
+
+Sync-Point 966, Time: 0.375, Nf = 0000110000, Systemstep: 0.00195312
+
+Sync-Point 967, Time: 0.376953, Nf = 0000003343, Systemstep: 0.00195312
+
+Sync-Point 968, Time: 0.378906, Nf = 0000030719, Systemstep: 0.00195312
+
+Sync-Point 969, Time: 0.380859, Nf = 0000003213, Systemstep: 0.00195312
+
+Sync-Point 970, Time: 0.382812, Nf = 0000063483, Systemstep: 0.00195312
+
+Sync-Point 971, Time: 0.384766, Nf = 0000003079, Systemstep: 0.00195312
+
+Sync-Point 972, Time: 0.386719, Nf = 0000030643, Systemstep: 0.00195312
+
+Sync-Point 973, Time: 0.388672, Nf = 0000002920, Systemstep: 0.00195312
+
+Sync-Point 974, Time: 0.390625, Nf = 0000097252, Systemstep: 0.00195312
+
+Sync-Point 975, Time: 0.392578, Nf = 0000002762, Systemstep: 0.00195312
+
+Sync-Point 976, Time: 0.394531, Nf = 0000030570, Systemstep: 0.00195312
+
+Sync-Point 977, Time: 0.396484, Nf = 0000002617, Systemstep: 0.00195312
+
+Sync-Point 978, Time: 0.398438, Nf = 0000062699, Systemstep: 0.00195312
+
+Sync-Point 979, Time: 0.400391, Nf = 0000002494, Systemstep: 0.00195312
+
+Sync-Point 980, Time: 0.402344, Nf = 0000030492, Systemstep: 0.00195312
+
+Sync-Point 981, Time: 0.404297, Nf = 0000002335, Systemstep: 0.00195312
+
+Sync-Point 982, Time: 0.40625, Nf = 0000109504, Systemstep: 0.00195312
+
+Sync-Point 983, Time: 0.407227, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 984, Time: 0.408203, Nf = 0000002161, Systemstep: 0.000976562
+
+Sync-Point 985, Time: 0.40918, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 986, Time: 0.410156, Nf = 0000030373, Systemstep: 0.000976562
+
+Sync-Point 987, Time: 0.411133, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 988, Time: 0.412109, Nf = 0000002086, Systemstep: 0.000976562
+
+Sync-Point 989, Time: 0.413086, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 990, Time: 0.414062, Nf = 0000062219, Systemstep: 0.000976562
+
+Sync-Point 991, Time: 0.415039, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 992, Time: 0.416016, Nf = 0000002014, Systemstep: 0.000976562
+
+Sync-Point 993, Time: 0.416992, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 994, Time: 0.417969, Nf = 0000030240, Systemstep: 0.000976562
+
+Sync-Point 995, Time: 0.418945, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 996, Time: 0.419922, Nf = 0000001881, Systemstep: 0.000976562
+
+Sync-Point 997, Time: 0.420898, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 998, Time: 0.421875, Nf = 0000097096, Systemstep: 0.000976562
+
+Sync-Point 999, Time: 0.422852, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1000, Time: 0.423828, Nf = 0000001846, Systemstep: 0.000976562
+
+Sync-Point 1001, Time: 0.424805, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1002, Time: 0.425781, Nf = 0000030101, Systemstep: 0.000976562
+
+Sync-Point 1003, Time: 0.426758, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1004, Time: 0.427734, Nf = 0000001807, Systemstep: 0.000976562
+
+Sync-Point 1005, Time: 0.428711, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1006, Time: 0.429688, Nf = 0000061864, Systemstep: 0.000976562
+
+Sync-Point 1007, Time: 0.430664, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1008, Time: 0.431641, Nf = 0000001758, Systemstep: 0.000976562
+
+Sync-Point 1009, Time: 0.432617, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1010, Time: 0.433594, Nf = 0000029913, Systemstep: 0.000976562
+
+Sync-Point 1011, Time: 0.43457, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1012, Time: 0.435547, Nf = 0000001698, Systemstep: 0.000976562
+
+Sync-Point 1013, Time: 0.436523, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1014, Time: 0.4375, Nf = 0000110000, Systemstep: 0.000976562
+
+Sync-Point 1015, Time: 0.438477, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1016, Time: 0.439453, Nf = 0000001680, Systemstep: 0.000976562
+
+Sync-Point 1017, Time: 0.439941, Nf = 0000000001, Systemstep: 0.000488281
+
+Sync-Point 1018, Time: 0.44043, Nf = 0000000001, Systemstep: 0.000488281
+
+Sync-Point 1019, Time: 0.441406, Nf = 0000029828, Systemstep: 0.000976562
+
+Sync-Point 1020, Time: 0.442383, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1021, Time: 0.443359, Nf = 0000001679, Systemstep: 0.000976562
+
+Sync-Point 1022, Time: 0.445312, Nf = 0000061668, Systemstep: 0.00195312
+
+Sync-Point 1023, Time: 0.447266, Nf = 0000001653, Systemstep: 0.00195312
+
+Sync-Point 1024, Time: 0.449219, Nf = 0000029706, Systemstep: 0.00195312
+
+Sync-Point 1025, Time: 0.451172, Nf = 0000001559, Systemstep: 0.00195312
+
+Sync-Point 1026, Time: 0.452148, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1027, Time: 0.453125, Nf = 0000097030, Systemstep: 0.000976562
+
+Sync-Point 1028, Time: 0.454102, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1029, Time: 0.455078, Nf = 0000001511, Systemstep: 0.000976562
+
+Sync-Point 1030, Time: 0.456055, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1031, Time: 0.457031, Nf = 0000029625, Systemstep: 0.000976562
+
+Sync-Point 1032, Time: 0.458008, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1033, Time: 0.458984, Nf = 0000001503, Systemstep: 0.000976562
+
+Sync-Point 1034, Time: 0.459961, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1035, Time: 0.460938, Nf = 0000061487, Systemstep: 0.000976562
+
+Sync-Point 1036, Time: 0.461914, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1037, Time: 0.462891, Nf = 0000001459, Systemstep: 0.000976562
+
+Sync-Point 1038, Time: 0.463867, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1039, Time: 0.464844, Nf = 0000029536, Systemstep: 0.000976562
+
+Sync-Point 1040, Time: 0.46582, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1041, Time: 0.466797, Nf = 0000001328, Systemstep: 0.000976562
+
+Sync-Point 1042, Time: 0.467773, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1043, Time: 0.46875, Nf = 0000108898, Systemstep: 0.000976562
+
+Sync-Point 1044, Time: 0.469727, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1045, Time: 0.470703, Nf = 0000001197, Systemstep: 0.000976562
+
+Sync-Point 1046, Time: 0.47168, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1047, Time: 0.472656, Nf = 0000029446, Systemstep: 0.000976562
+
+Sync-Point 1048, Time: 0.473633, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1049, Time: 0.474609, Nf = 0000001142, Systemstep: 0.000976562
+
+Sync-Point 1050, Time: 0.475586, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1051, Time: 0.476562, Nf = 0000061220, Systemstep: 0.000976562
+
+Sync-Point 1052, Time: 0.477539, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1053, Time: 0.478516, Nf = 0000001059, Systemstep: 0.000976562
+
+Sync-Point 1054, Time: 0.479492, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1055, Time: 0.480469, Nf = 0000029353, Systemstep: 0.000976562
+
+Sync-Point 1056, Time: 0.481445, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1057, Time: 0.482422, Nf = 0000000979, Systemstep: 0.000976562
+
+Sync-Point 1058, Time: 0.483398, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1059, Time: 0.484375, Nf = 0000096555, Systemstep: 0.000976562
+
+Sync-Point 1060, Time: 0.485352, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1061, Time: 0.486328, Nf = 0000000915, Systemstep: 0.000976562
+
+Sync-Point 1062, Time: 0.487305, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1063, Time: 0.488281, Nf = 0000029268, Systemstep: 0.000976562
+
+Sync-Point 1064, Time: 0.489258, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1065, Time: 0.490234, Nf = 0000000860, Systemstep: 0.000976562
+
+Sync-Point 1066, Time: 0.491211, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1067, Time: 0.492188, Nf = 0000060903, Systemstep: 0.000976562
+
+Sync-Point 1068, Time: 0.493164, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1069, Time: 0.494141, Nf = 0000000850, Systemstep: 0.000976562
+
+Sync-Point 1070, Time: 0.495117, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1071, Time: 0.496094, Nf = 0000029238, Systemstep: 0.000976562
+
+Sync-Point 1072, Time: 0.49707, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1073, Time: 0.498047, Nf = 0000000795, Systemstep: 0.000976562
+
+Sync-Point 1074, Time: 0.499023, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1075, Time: 0.5, Nf = 0000110000, Systemstep: 0.000976562
+
+Sync-Point 1076, Time: 0.500977, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1077, Time: 0.501953, Nf = 0000000755, Systemstep: 0.000976562
+
+Sync-Point 1078, Time: 0.50293, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1079, Time: 0.503906, Nf = 0000029187, Systemstep: 0.000976562
+
+Sync-Point 1080, Time: 0.504883, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1081, Time: 0.505859, Nf = 0000000727, Systemstep: 0.000976562
+
+Sync-Point 1082, Time: 0.506836, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1083, Time: 0.507812, Nf = 0000060670, Systemstep: 0.000976562
+
+Sync-Point 1084, Time: 0.508789, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1085, Time: 0.509766, Nf = 0000000685, Systemstep: 0.000976562
+
+Sync-Point 1086, Time: 0.510742, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1087, Time: 0.511719, Nf = 0000029105, Systemstep: 0.000976562
+
+Sync-Point 1088, Time: 0.512695, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1089, Time: 0.513672, Nf = 0000000664, Systemstep: 0.000976562
+
+Sync-Point 1090, Time: 0.514648, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1091, Time: 0.515625, Nf = 0000095540, Systemstep: 0.000976562
+
+Sync-Point 1092, Time: 0.516602, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1093, Time: 0.517578, Nf = 0000000616, Systemstep: 0.000976562
+
+Sync-Point 1094, Time: 0.518555, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1095, Time: 0.519531, Nf = 0000029044, Systemstep: 0.000976562
+
+Sync-Point 1096, Time: 0.520508, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1097, Time: 0.521484, Nf = 0000000639, Systemstep: 0.000976562
+
+Sync-Point 1098, Time: 0.522461, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1099, Time: 0.523438, Nf = 0000060514, Systemstep: 0.000976562
+
+Sync-Point 1100, Time: 0.524414, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1101, Time: 0.525391, Nf = 0000000601, Systemstep: 0.000976562
+
+Sync-Point 1102, Time: 0.526367, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1103, Time: 0.527344, Nf = 0000028958, Systemstep: 0.000976562
+
+Sync-Point 1104, Time: 0.52832, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1105, Time: 0.529297, Nf = 0000000566, Systemstep: 0.000976562
+
+Sync-Point 1106, Time: 0.530273, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1107, Time: 0.53125, Nf = 0000108069, Systemstep: 0.000976562
+
+Sync-Point 1108, Time: 0.532227, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1109, Time: 0.533203, Nf = 0000000578, Systemstep: 0.000976562
+
+Sync-Point 1110, Time: 0.53418, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1111, Time: 0.535156, Nf = 0000028937, Systemstep: 0.000976562
+
+Sync-Point 1112, Time: 0.536133, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1113, Time: 0.537109, Nf = 0000000560, Systemstep: 0.000976562
+
+Sync-Point 1114, Time: 0.538086, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1115, Time: 0.539062, Nf = 0000060375, Systemstep: 0.000976562
+
+Sync-Point 1116, Time: 0.540039, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1117, Time: 0.541016, Nf = 0000000524, Systemstep: 0.000976562
+
+Sync-Point 1118, Time: 0.541992, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1119, Time: 0.542969, Nf = 0000028830, Systemstep: 0.000976562
+
+Sync-Point 1120, Time: 0.543945, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1121, Time: 0.544922, Nf = 0000000495, Systemstep: 0.000976562
+
+Sync-Point 1122, Time: 0.545898, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1123, Time: 0.546875, Nf = 0000094342, Systemstep: 0.000976562
+
+Sync-Point 1124, Time: 0.547852, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1125, Time: 0.548828, Nf = 0000000466, Systemstep: 0.000976562
+
+Sync-Point 1126, Time: 0.549805, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1127, Time: 0.550781, Nf = 0000028769, Systemstep: 0.000976562
+
+Sync-Point 1128, Time: 0.551758, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1129, Time: 0.552734, Nf = 0000000483, Systemstep: 0.000976562
+
+Sync-Point 1130, Time: 0.553711, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1131, Time: 0.554688, Nf = 0000060247, Systemstep: 0.000976562
+
+Sync-Point 1132, Time: 0.555664, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1133, Time: 0.556641, Nf = 0000000453, Systemstep: 0.000976562
+
+Sync-Point 1134, Time: 0.557617, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1135, Time: 0.558594, Nf = 0000028702, Systemstep: 0.000976562
+
+Sync-Point 1136, Time: 0.55957, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1137, Time: 0.560547, Nf = 0000000425, Systemstep: 0.000976562
+
+Sync-Point 1138, Time: 0.561523, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1139, Time: 0.5625, Nf = 0000110000, Systemstep: 0.000976562
+
+Sync-Point 1140, Time: 0.563477, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1141, Time: 0.564453, Nf = 0000000454, Systemstep: 0.000976562
+
+Sync-Point 1142, Time: 0.56543, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1143, Time: 0.566406, Nf = 0000028679, Systemstep: 0.000976562
+
+Sync-Point 1144, Time: 0.567383, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1145, Time: 0.568359, Nf = 0000000430, Systemstep: 0.000976562
+
+Sync-Point 1146, Time: 0.570312, Nf = 0000060120, Systemstep: 0.00195312
+
+Sync-Point 1147, Time: 0.572266, Nf = 0000000417, Systemstep: 0.00195312
+
+Sync-Point 1148, Time: 0.574219, Nf = 0000028568, Systemstep: 0.00195312
+
+Sync-Point 1149, Time: 0.575195, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1150, Time: 0.576172, Nf = 0000000408, Systemstep: 0.000976562
+
+Sync-Point 1151, Time: 0.577148, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1152, Time: 0.578125, Nf = 0000093489, Systemstep: 0.000976562
+
+Sync-Point 1153, Time: 0.579102, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1154, Time: 0.580078, Nf = 0000000332, Systemstep: 0.000976562
+
+Sync-Point 1155, Time: 0.581055, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1156, Time: 0.582031, Nf = 0000028538, Systemstep: 0.000976562
+
+Sync-Point 1157, Time: 0.58252, Nf = 0000000001, Systemstep: 0.000488281
+
+Sync-Point 1158, Time: 0.583008, Nf = 0000000001, Systemstep: 0.000488281
+
+Sync-Point 1159, Time: 0.583496, Nf = 0000000001, Systemstep: 0.000488281
+
+Sync-Point 1160, Time: 0.583984, Nf = 0000000299, Systemstep: 0.000488281
+
+Sync-Point 1161, Time: 0.584473, Nf = 0000000001, Systemstep: 0.000488281
+
+Sync-Point 1162, Time: 0.584961, Nf = 0000000001, Systemstep: 0.000488281
+
+Sync-Point 1163, Time: 0.585938, Nf = 0000059969, Systemstep: 0.000976562
+
+Sync-Point 1164, Time: 0.587891, Nf = 0000000288, Systemstep: 0.00195312
+
+Sync-Point 1165, Time: 0.588867, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1166, Time: 0.589355, Nf = 0000000001, Systemstep: 0.000488281
+
+Sync-Point 1167, Time: 0.589844, Nf = 0000028512, Systemstep: 0.000488281
+
+Sync-Point 1168, Time: 0.590332, Nf = 0000000001, Systemstep: 0.000488281
+
+Sync-Point 1169, Time: 0.59082, Nf = 0000000001, Systemstep: 0.000488281
+
+Sync-Point 1170, Time: 0.591309, Nf = 0000000001, Systemstep: 0.000488281
+
+Sync-Point 1171, Time: 0.591797, Nf = 0000000315, Systemstep: 0.000488281
+
+Sync-Point 1172, Time: 0.592285, Nf = 0000000001, Systemstep: 0.000488281
+
+Sync-Point 1173, Time: 0.592773, Nf = 0000000001, Systemstep: 0.000488281
+
+Sync-Point 1174, Time: 0.59375, Nf = 0000107768, Systemstep: 0.000976562
+
+Sync-Point 1175, Time: 0.594727, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1176, Time: 0.595703, Nf = 0000000288, Systemstep: 0.000976562
+
+Sync-Point 1177, Time: 0.59668, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1178, Time: 0.597656, Nf = 0000028462, Systemstep: 0.000976562
+
+Sync-Point 1179, Time: 0.599609, Nf = 0000000298, Systemstep: 0.00195312
+
+Sync-Point 1180, Time: 0.600098, Nf = 0000000001, Systemstep: 0.000488281
+
+Sync-Point 1181, Time: 0.600586, Nf = 0000000001, Systemstep: 0.000488281
+
+Sync-Point 1182, Time: 0.601074, Nf = 0000000001, Systemstep: 0.000488281
+
+Sync-Point 1183, Time: 0.601562, Nf = 0000059846, Systemstep: 0.000488281
+
+Sync-Point 1184, Time: 0.602051, Nf = 0000000001, Systemstep: 0.000488281
+
+Sync-Point 1185, Time: 0.602539, Nf = 0000000001, Systemstep: 0.000488281
+
+Sync-Point 1186, Time: 0.603027, Nf = 0000000001, Systemstep: 0.000488281
+
+Sync-Point 1187, Time: 0.603516, Nf = 0000000281, Systemstep: 0.000488281
+
+Sync-Point 1188, Time: 0.604004, Nf = 0000000001, Systemstep: 0.000488281
+
+Sync-Point 1189, Time: 0.604492, Nf = 0000000001, Systemstep: 0.000488281
+
+Sync-Point 1190, Time: 0.605469, Nf = 0000028367, Systemstep: 0.000976562
+
+Sync-Point 1191, Time: 0.606445, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1192, Time: 0.607422, Nf = 0000000298, Systemstep: 0.000976562
+
+Sync-Point 1193, Time: 0.608398, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1194, Time: 0.609375, Nf = 0000092771, Systemstep: 0.000976562
+
+Sync-Point 1195, Time: 0.610352, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1196, Time: 0.611328, Nf = 0000000281, Systemstep: 0.000976562
+
+Sync-Point 1197, Time: 0.612305, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1198, Time: 0.613281, Nf = 0000028332, Systemstep: 0.000976562
+
+Sync-Point 1199, Time: 0.614258, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1200, Time: 0.615234, Nf = 0000000280, Systemstep: 0.000976562
+
+Sync-Point 1201, Time: 0.616211, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1202, Time: 0.617188, Nf = 0000059760, Systemstep: 0.000976562
+
+Sync-Point 1203, Time: 0.618164, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1204, Time: 0.619141, Nf = 0000000260, Systemstep: 0.000976562
+
+Sync-Point 1205, Time: 0.620117, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1206, Time: 0.621094, Nf = 0000028289, Systemstep: 0.000976562
+
+Sync-Point 1207, Time: 0.62207, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1208, Time: 0.623047, Nf = 0000000261, Systemstep: 0.000976562
+
+Sync-Point 1209, Time: 0.624023, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1210, Time: 0.625, Nf = 0000110000, Systemstep: 0.000976562
+
+Sync-Point 1211, Time: 0.626953, Nf = 0000000241, Systemstep: 0.00195312
+
+Sync-Point 1212, Time: 0.628906, Nf = 0000028247, Systemstep: 0.00195312
+
+Sync-Point 1213, Time: 0.629883, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1214, Time: 0.630859, Nf = 0000000288, Systemstep: 0.000976562
+
+Sync-Point 1215, Time: 0.631836, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1216, Time: 0.632812, Nf = 0000059658, Systemstep: 0.000976562
+
+Sync-Point 1217, Time: 0.633789, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1218, Time: 0.634766, Nf = 0000000263, Systemstep: 0.000976562
+
+Sync-Point 1219, Time: 0.635742, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1220, Time: 0.636719, Nf = 0000028187, Systemstep: 0.000976562
+
+Sync-Point 1221, Time: 0.637695, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1222, Time: 0.638672, Nf = 0000000246, Systemstep: 0.000976562
+
+Sync-Point 1223, Time: 0.639648, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1224, Time: 0.640625, Nf = 0000092207, Systemstep: 0.000976562
+
+Sync-Point 1225, Time: 0.641602, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1226, Time: 0.642578, Nf = 0000000282, Systemstep: 0.000976562
+
+Sync-Point 1227, Time: 0.643555, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1228, Time: 0.644531, Nf = 0000028135, Systemstep: 0.000976562
+
+Sync-Point 1229, Time: 0.645508, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1230, Time: 0.646484, Nf = 0000000227, Systemstep: 0.000976562
+
+Sync-Point 1231, Time: 0.647461, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1232, Time: 0.648438, Nf = 0000059561, Systemstep: 0.000976562
+
+Sync-Point 1233, Time: 0.649414, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1234, Time: 0.650391, Nf = 0000000218, Systemstep: 0.000976562
+
+Sync-Point 1235, Time: 0.651367, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1236, Time: 0.652344, Nf = 0000028033, Systemstep: 0.000976562
+
+Sync-Point 1237, Time: 0.65332, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1238, Time: 0.654297, Nf = 0000000210, Systemstep: 0.000976562
+
+Sync-Point 1239, Time: 0.655273, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1240, Time: 0.65625, Nf = 0000107718, Systemstep: 0.000976562
+
+Sync-Point 1241, Time: 0.657227, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1242, Time: 0.658203, Nf = 0000000222, Systemstep: 0.000976562
+
+Sync-Point 1243, Time: 0.65918, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1244, Time: 0.660156, Nf = 0000028021, Systemstep: 0.000976562
+
+Sync-Point 1245, Time: 0.661133, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1246, Time: 0.662109, Nf = 0000000217, Systemstep: 0.000976562
+
+Sync-Point 1247, Time: 0.663086, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1248, Time: 0.664062, Nf = 0000059474, Systemstep: 0.000976562
+
+Sync-Point 1249, Time: 0.665039, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1250, Time: 0.666016, Nf = 0000000216, Systemstep: 0.000976562
+
+Sync-Point 1251, Time: 0.666992, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1252, Time: 0.667969, Nf = 0000027955, Systemstep: 0.000976562
+
+Sync-Point 1253, Time: 0.668945, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1254, Time: 0.669922, Nf = 0000000205, Systemstep: 0.000976562
+
+Sync-Point 1255, Time: 0.670898, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1256, Time: 0.671875, Nf = 0000091856, Systemstep: 0.000976562
+
+Sync-Point 1257, Time: 0.672852, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1258, Time: 0.673828, Nf = 0000000194, Systemstep: 0.000976562
+
+Sync-Point 1259, Time: 0.674805, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1260, Time: 0.675781, Nf = 0000027935, Systemstep: 0.000976562
+
+Sync-Point 1261, Time: 0.676758, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1262, Time: 0.677734, Nf = 0000000199, Systemstep: 0.000976562
+
+Sync-Point 1263, Time: 0.678711, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1264, Time: 0.679688, Nf = 0000059357, Systemstep: 0.000976562
+
+Sync-Point 1265, Time: 0.680664, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1266, Time: 0.681641, Nf = 0000000196, Systemstep: 0.000976562
+
+Sync-Point 1267, Time: 0.682617, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1268, Time: 0.683594, Nf = 0000027892, Systemstep: 0.000976562
+
+Sync-Point 1269, Time: 0.68457, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1270, Time: 0.685547, Nf = 0000000189, Systemstep: 0.000976562
+
+Sync-Point 1271, Time: 0.686523, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1272, Time: 0.6875, Nf = 0000110000, Systemstep: 0.000976562
+
+Sync-Point 1273, Time: 0.688477, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1274, Time: 0.689453, Nf = 0000000195, Systemstep: 0.000976562
+
+Sync-Point 1275, Time: 0.69043, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1276, Time: 0.691406, Nf = 0000027830, Systemstep: 0.000976562
+
+Sync-Point 1277, Time: 0.692383, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1278, Time: 0.693359, Nf = 0000000177, Systemstep: 0.000976562
+
+Sync-Point 1279, Time: 0.694336, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1280, Time: 0.695312, Nf = 0000059302, Systemstep: 0.000976562
+
+Sync-Point 1281, Time: 0.696289, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1282, Time: 0.697266, Nf = 0000000169, Systemstep: 0.000976562
+
+Sync-Point 1283, Time: 0.698242, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1284, Time: 0.699219, Nf = 0000027782, Systemstep: 0.000976562
+
+Sync-Point 1285, Time: 0.700195, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1286, Time: 0.701172, Nf = 0000000157, Systemstep: 0.000976562
+
+Sync-Point 1287, Time: 0.702148, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1288, Time: 0.703125, Nf = 0000091495, Systemstep: 0.000976562
+
+Sync-Point 1289, Time: 0.704102, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1290, Time: 0.705078, Nf = 0000000141, Systemstep: 0.000976562
+
+Sync-Point 1291, Time: 0.706055, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1292, Time: 0.707031, Nf = 0000027747, Systemstep: 0.000976562
+
+Sync-Point 1293, Time: 0.708008, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1294, Time: 0.708984, Nf = 0000000149, Systemstep: 0.000976562
+
+Sync-Point 1295, Time: 0.709961, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1296, Time: 0.710938, Nf = 0000059274, Systemstep: 0.000976562
+
+Sync-Point 1297, Time: 0.711914, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1298, Time: 0.712891, Nf = 0000000160, Systemstep: 0.000976562
+
+Sync-Point 1299, Time: 0.713867, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1300, Time: 0.714844, Nf = 0000027707, Systemstep: 0.000976562
+
+Sync-Point 1301, Time: 0.71582, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1302, Time: 0.716797, Nf = 0000000177, Systemstep: 0.000976562
+
+Sync-Point 1303, Time: 0.717773, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1304, Time: 0.71875, Nf = 0000106470, Systemstep: 0.000976562
+
+Sync-Point 1305, Time: 0.719727, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1306, Time: 0.720703, Nf = 0000000168, Systemstep: 0.000976562
+
+Sync-Point 1307, Time: 0.72168, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1308, Time: 0.722168, Nf = 0000000001, Systemstep: 0.000488281
+
+Sync-Point 1309, Time: 0.722656, Nf = 0000027625, Systemstep: 0.000488281
+
+Sync-Point 1310, Time: 0.723145, Nf = 0000000001, Systemstep: 0.000488281
+
+Sync-Point 1311, Time: 0.723633, Nf = 0000000001, Systemstep: 0.000488281
+
+Sync-Point 1312, Time: 0.724121, Nf = 0000000001, Systemstep: 0.000488281
+
+Sync-Point 1313, Time: 0.724609, Nf = 0000000182, Systemstep: 0.000488281
+
+Sync-Point 1314, Time: 0.725586, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1315, Time: 0.726562, Nf = 0000059206, Systemstep: 0.000976562
+
+Sync-Point 1316, Time: 0.728516, Nf = 0000000164, Systemstep: 0.00195312
+
+Sync-Point 1317, Time: 0.729492, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1318, Time: 0.730469, Nf = 0000027545, Systemstep: 0.000976562
+
+Sync-Point 1319, Time: 0.731445, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1320, Time: 0.732422, Nf = 0000000155, Systemstep: 0.000976562
+
+Sync-Point 1321, Time: 0.733398, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1322, Time: 0.734375, Nf = 0000091190, Systemstep: 0.000976562
+
+Sync-Point 1323, Time: 0.735352, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1324, Time: 0.736328, Nf = 0000000168, Systemstep: 0.000976562
+
+Sync-Point 1325, Time: 0.737305, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1326, Time: 0.738281, Nf = 0000027542, Systemstep: 0.000976562
+
+Sync-Point 1327, Time: 0.739258, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1328, Time: 0.740234, Nf = 0000000127, Systemstep: 0.000976562
+
+Sync-Point 1329, Time: 0.741211, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1330, Time: 0.742188, Nf = 0000059120, Systemstep: 0.000976562
+
+Sync-Point 1331, Time: 0.743164, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1332, Time: 0.744141, Nf = 0000000142, Systemstep: 0.000976562
+
+Sync-Point 1333, Time: 0.745117, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1334, Time: 0.746094, Nf = 0000027506, Systemstep: 0.000976562
+
+Sync-Point 1335, Time: 0.74707, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1336, Time: 0.748047, Nf = 0000000149, Systemstep: 0.000976562
+
+Sync-Point 1337, Time: 0.749023, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1338, Time: 0.75, Nf = 0000110000, Systemstep: 0.000976562
+
+Sync-Point 1339, Time: 0.750977, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1340, Time: 0.751953, Nf = 0000000138, Systemstep: 0.000976562
+
+Sync-Point 1341, Time: 0.75293, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1342, Time: 0.753906, Nf = 0000027486, Systemstep: 0.000976562
+
+Sync-Point 1343, Time: 0.754883, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1344, Time: 0.755859, Nf = 0000000139, Systemstep: 0.000976562
+
+Sync-Point 1345, Time: 0.756836, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1346, Time: 0.757812, Nf = 0000059044, Systemstep: 0.000976562
+
+Sync-Point 1347, Time: 0.758789, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1348, Time: 0.759766, Nf = 0000000123, Systemstep: 0.000976562
+
+Sync-Point 1349, Time: 0.760742, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1350, Time: 0.761719, Nf = 0000027435, Systemstep: 0.000976562
+
+Sync-Point 1351, Time: 0.762695, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1352, Time: 0.763672, Nf = 0000000115, Systemstep: 0.000976562
+
+Sync-Point 1353, Time: 0.764648, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1354, Time: 0.765625, Nf = 0000091007, Systemstep: 0.000976562
+
+Sync-Point 1355, Time: 0.766602, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1356, Time: 0.767578, Nf = 0000000116, Systemstep: 0.000976562
+
+Sync-Point 1357, Time: 0.768555, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1358, Time: 0.769531, Nf = 0000027377, Systemstep: 0.000976562
+
+Sync-Point 1359, Time: 0.770508, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1360, Time: 0.771484, Nf = 0000000098, Systemstep: 0.000976562
+
+Sync-Point 1361, Time: 0.772461, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1362, Time: 0.773438, Nf = 0000059014, Systemstep: 0.000976562
+
+Sync-Point 1363, Time: 0.774414, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1364, Time: 0.775391, Nf = 0000000111, Systemstep: 0.000976562
+
+Sync-Point 1365, Time: 0.776367, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1366, Time: 0.777344, Nf = 0000027365, Systemstep: 0.000976562
+
+Sync-Point 1367, Time: 0.77832, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1368, Time: 0.779297, Nf = 0000000114, Systemstep: 0.000976562
+
+Sync-Point 1369, Time: 0.780273, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1370, Time: 0.78125, Nf = 0000104919, Systemstep: 0.000976562
+
+Sync-Point 1371, Time: 0.782227, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1372, Time: 0.783203, Nf = 0000000116, Systemstep: 0.000976562
+
+Sync-Point 1373, Time: 0.78418, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1374, Time: 0.785156, Nf = 0000027347, Systemstep: 0.000976562
+
+Sync-Point 1375, Time: 0.786133, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1376, Time: 0.787109, Nf = 0000000079, Systemstep: 0.000976562
+
+Sync-Point 1377, Time: 0.788086, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1378, Time: 0.789062, Nf = 0000058958, Systemstep: 0.000976562
+
+Sync-Point 1379, Time: 0.790039, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1380, Time: 0.791016, Nf = 0000000099, Systemstep: 0.000976562
+
+Sync-Point 1381, Time: 0.791992, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1382, Time: 0.792969, Nf = 0000027309, Systemstep: 0.000976562
+
+Sync-Point 1383, Time: 0.793945, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1384, Time: 0.794922, Nf = 0000000083, Systemstep: 0.000976562
+
+Sync-Point 1385, Time: 0.795898, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1386, Time: 0.796875, Nf = 0000090841, Systemstep: 0.000976562
+
+Sync-Point 1387, Time: 0.797852, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1388, Time: 0.798828, Nf = 0000000078, Systemstep: 0.000976562
+
+Sync-Point 1389, Time: 0.799805, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1390, Time: 0.800781, Nf = 0000027233, Systemstep: 0.000976562
+
+Sync-Point 1391, Time: 0.801758, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1392, Time: 0.802734, Nf = 0000000081, Systemstep: 0.000976562
+
+Sync-Point 1393, Time: 0.803711, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1394, Time: 0.804688, Nf = 0000058897, Systemstep: 0.000976562
+
+Sync-Point 1395, Time: 0.805664, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1396, Time: 0.806641, Nf = 0000000053, Systemstep: 0.000976562
+
+Sync-Point 1397, Time: 0.807617, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1398, Time: 0.808594, Nf = 0000027180, Systemstep: 0.000976562
+
+Sync-Point 1399, Time: 0.80957, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1400, Time: 0.810547, Nf = 0000000062, Systemstep: 0.000976562
+
+Sync-Point 1401, Time: 0.811523, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1402, Time: 0.8125, Nf = 0000110000, Systemstep: 0.000976562
+
+Sync-Point 1403, Time: 0.813477, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1404, Time: 0.814453, Nf = 0000000047, Systemstep: 0.000976562
+
+Sync-Point 1405, Time: 0.81543, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1406, Time: 0.816406, Nf = 0000027123, Systemstep: 0.000976562
+
+Sync-Point 1407, Time: 0.817383, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1408, Time: 0.818359, Nf = 0000000042, Systemstep: 0.000976562
+
+Sync-Point 1409, Time: 0.819336, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1410, Time: 0.820312, Nf = 0000058849, Systemstep: 0.000976562
+
+Sync-Point 1411, Time: 0.821289, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1412, Time: 0.822266, Nf = 0000000043, Systemstep: 0.000976562
+
+Sync-Point 1413, Time: 0.823242, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1414, Time: 0.824219, Nf = 0000027126, Systemstep: 0.000976562
+
+Sync-Point 1415, Time: 0.825195, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1416, Time: 0.826172, Nf = 0000000048, Systemstep: 0.000976562
+
+Sync-Point 1417, Time: 0.827148, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1418, Time: 0.828125, Nf = 0000090619, Systemstep: 0.000976562
+
+Sync-Point 1419, Time: 0.830078, Nf = 0000000054, Systemstep: 0.00195312
+
+Sync-Point 1420, Time: 0.832031, Nf = 0000027115, Systemstep: 0.00195312
+
+Sync-Point 1421, Time: 0.833984, Nf = 0000000054, Systemstep: 0.00195312
+
+Sync-Point 1422, Time: 0.835938, Nf = 0000058766, Systemstep: 0.00195312
+
+Sync-Point 1423, Time: 0.837891, Nf = 0000000045, Systemstep: 0.00195312
+
+Sync-Point 1424, Time: 0.839844, Nf = 0000027060, Systemstep: 0.00195312
+
+Sync-Point 1425, Time: 0.841797, Nf = 0000000054, Systemstep: 0.00195312
+
+Sync-Point 1426, Time: 0.84375, Nf = 0000103482, Systemstep: 0.00195312
+
+Sync-Point 1427, Time: 0.845703, Nf = 0000000054, Systemstep: 0.00195312
+
+Sync-Point 1428, Time: 0.847656, Nf = 0000026972, Systemstep: 0.00195312
+
+Sync-Point 1429, Time: 0.849609, Nf = 0000000058, Systemstep: 0.00195312
+
+Sync-Point 1430, Time: 0.851562, Nf = 0000058772, Systemstep: 0.00195312
+
+Sync-Point 1431, Time: 0.852539, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1432, Time: 0.853516, Nf = 0000000052, Systemstep: 0.000976562
+
+Sync-Point 1433, Time: 0.854492, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1434, Time: 0.855469, Nf = 0000026925, Systemstep: 0.000976562
+
+Sync-Point 1435, Time: 0.856445, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1436, Time: 0.857422, Nf = 0000000052, Systemstep: 0.000976562
+
+Sync-Point 1437, Time: 0.858398, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1438, Time: 0.859375, Nf = 0000090325, Systemstep: 0.000976562
+
+Sync-Point 1439, Time: 0.860352, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1440, Time: 0.861328, Nf = 0000000047, Systemstep: 0.000976562
+
+Sync-Point 1441, Time: 0.862305, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1442, Time: 0.863281, Nf = 0000026972, Systemstep: 0.000976562
+
+Sync-Point 1443, Time: 0.864258, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1444, Time: 0.865234, Nf = 0000000054, Systemstep: 0.000976562
+
+Sync-Point 1445, Time: 0.866211, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1446, Time: 0.867188, Nf = 0000058775, Systemstep: 0.000976562
+
+Sync-Point 1447, Time: 0.868164, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1448, Time: 0.869141, Nf = 0000000032, Systemstep: 0.000976562
+
+Sync-Point 1449, Time: 0.870117, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1450, Time: 0.871094, Nf = 0000026895, Systemstep: 0.000976562
+
+Sync-Point 1451, Time: 0.87207, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1452, Time: 0.873047, Nf = 0000000040, Systemstep: 0.000976562
+
+Sync-Point 1453, Time: 0.874023, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1454, Time: 0.875, Nf = 0000110000, Systemstep: 0.000976562
+
+Sync-Point 1455, Time: 0.875977, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1456, Time: 0.876953, Nf = 0000000057, Systemstep: 0.000976562
+
+Sync-Point 1457, Time: 0.87793, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1458, Time: 0.878906, Nf = 0000026870, Systemstep: 0.000976562
+
+Sync-Point 1459, Time: 0.879883, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1460, Time: 0.880859, Nf = 0000000044, Systemstep: 0.000976562
+
+Sync-Point 1461, Time: 0.881836, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1462, Time: 0.882812, Nf = 0000058754, Systemstep: 0.000976562
+
+Sync-Point 1463, Time: 0.883301, Nf = 0000000001, Systemstep: 0.000488281
+
+Sync-Point 1464, Time: 0.883789, Nf = 0000000001, Systemstep: 0.000488281
+
+Sync-Point 1465, Time: 0.884277, Nf = 0000000001, Systemstep: 0.000488281
+
+Sync-Point 1466, Time: 0.884766, Nf = 0000000049, Systemstep: 0.000488281
+
+Sync-Point 1467, Time: 0.885254, Nf = 0000000001, Systemstep: 0.000488281
+
+Sync-Point 1468, Time: 0.885742, Nf = 0000000001, Systemstep: 0.000488281
+
+Sync-Point 1469, Time: 0.88623, Nf = 0000000001, Systemstep: 0.000488281
+
+Sync-Point 1470, Time: 0.886719, Nf = 0000026817, Systemstep: 0.000488281
+
+Sync-Point 1471, Time: 0.887207, Nf = 0000000001, Systemstep: 0.000488281
+
+Sync-Point 1472, Time: 0.887695, Nf = 0000000001, Systemstep: 0.000488281
+
+Sync-Point 1473, Time: 0.888184, Nf = 0000000001, Systemstep: 0.000488281
+
+Sync-Point 1474, Time: 0.888672, Nf = 0000000064, Systemstep: 0.000488281
+
+Sync-Point 1475, Time: 0.888916, Nf = 0000000001, Systemstep: 0.000244141
+
+Sync-Point 1476, Time: 0.88916, Nf = 0000000001, Systemstep: 0.000244141
+
+Sync-Point 1477, Time: 0.889404, Nf = 0000000001, Systemstep: 0.000244141
+
+Sync-Point 1478, Time: 0.889648, Nf = 0000000001, Systemstep: 0.000244141
+
+Sync-Point 1479, Time: 0.889893, Nf = 0000000001, Systemstep: 0.000244141
+
+Sync-Point 1480, Time: 0.890137, Nf = 0000000001, Systemstep: 0.000244141
+
+Sync-Point 1481, Time: 0.890381, Nf = 0000000001, Systemstep: 0.000244141
+
+Sync-Point 1482, Time: 0.890625, Nf = 0000090151, Systemstep: 0.000244141
+
+Sync-Point 1483, Time: 0.890869, Nf = 0000000001, Systemstep: 0.000244141
+
+Sync-Point 1484, Time: 0.891113, Nf = 0000000001, Systemstep: 0.000244141
+
+Sync-Point 1485, Time: 0.891357, Nf = 0000000001, Systemstep: 0.000244141
+
+Sync-Point 1486, Time: 0.891602, Nf = 0000000001, Systemstep: 0.000244141
+
+Sync-Point 1487, Time: 0.891846, Nf = 0000000001, Systemstep: 0.000244141
+
+Sync-Point 1488, Time: 0.89209, Nf = 0000000001, Systemstep: 0.000244141
+
+Sync-Point 1489, Time: 0.892334, Nf = 0000000001, Systemstep: 0.000244141
+
+Sync-Point 1490, Time: 0.892578, Nf = 0000000045, Systemstep: 0.000244141
+
+Sync-Point 1491, Time: 0.892822, Nf = 0000000001, Systemstep: 0.000244141
+
+Sync-Point 1492, Time: 0.893066, Nf = 0000000001, Systemstep: 0.000244141
+
+Sync-Point 1493, Time: 0.893311, Nf = 0000000001, Systemstep: 0.000244141
+
+Sync-Point 1494, Time: 0.893555, Nf = 0000000001, Systemstep: 0.000244141
+
+Sync-Point 1495, Time: 0.893799, Nf = 0000000001, Systemstep: 0.000244141
+
+Sync-Point 1496, Time: 0.894043, Nf = 0000000001, Systemstep: 0.000244141
+
+Sync-Point 1497, Time: 0.894287, Nf = 0000000001, Systemstep: 0.000244141
+
+Sync-Point 1498, Time: 0.894531, Nf = 0000026821, Systemstep: 0.000244141
+
+Sync-Point 1499, Time: 0.894775, Nf = 0000000001, Systemstep: 0.000244141
+
+Sync-Point 1500, Time: 0.89502, Nf = 0000000001, Systemstep: 0.000244141
+
+Sync-Point 1501, Time: 0.895264, Nf = 0000000001, Systemstep: 0.000244141
+
+Sync-Point 1502, Time: 0.895508, Nf = 0000000001, Systemstep: 0.000244141
+
+Sync-Point 1503, Time: 0.895752, Nf = 0000000001, Systemstep: 0.000244141
+
+Sync-Point 1504, Time: 0.895996, Nf = 0000000001, Systemstep: 0.000244141
+
+Sync-Point 1505, Time: 0.896484, Nf = 0000000066, Systemstep: 0.000488281
+
+Sync-Point 1506, Time: 0.896973, Nf = 0000000001, Systemstep: 0.000488281
+
+Sync-Point 1507, Time: 0.897461, Nf = 0000000001, Systemstep: 0.000488281
+
+Sync-Point 1508, Time: 0.897949, Nf = 0000000001, Systemstep: 0.000488281
+
+Sync-Point 1509, Time: 0.898438, Nf = 0000058752, Systemstep: 0.000488281
+
+Sync-Point 1510, Time: 0.898926, Nf = 0000000001, Systemstep: 0.000488281
+
+Sync-Point 1511, Time: 0.899414, Nf = 0000000001, Systemstep: 0.000488281
+
+Sync-Point 1512, Time: 0.899902, Nf = 0000000001, Systemstep: 0.000488281
+
+Sync-Point 1513, Time: 0.900391, Nf = 0000000046, Systemstep: 0.000488281
+
+Sync-Point 1514, Time: 0.900879, Nf = 0000000001, Systemstep: 0.000488281
+
+Sync-Point 1515, Time: 0.901367, Nf = 0000000001, Systemstep: 0.000488281
+
+Sync-Point 1516, Time: 0.901855, Nf = 0000000001, Systemstep: 0.000488281
+
+Sync-Point 1517, Time: 0.902344, Nf = 0000026827, Systemstep: 0.000488281
+
+Sync-Point 1518, Time: 0.902832, Nf = 0000000001, Systemstep: 0.000488281
+
+Sync-Point 1519, Time: 0.90332, Nf = 0000000001, Systemstep: 0.000488281
+
+Sync-Point 1520, Time: 0.904297, Nf = 0000000047, Systemstep: 0.000976562
+
+Sync-Point 1521, Time: 0.905273, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1522, Time: 0.90625, Nf = 0000102442, Systemstep: 0.000976562
+
+Sync-Point 1523, Time: 0.907227, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1524, Time: 0.908203, Nf = 0000000042, Systemstep: 0.000976562
+
+Sync-Point 1525, Time: 0.90918, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1526, Time: 0.910156, Nf = 0000026827, Systemstep: 0.000976562
+
+Sync-Point 1527, Time: 0.911133, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1528, Time: 0.912109, Nf = 0000000050, Systemstep: 0.000976562
+
+Sync-Point 1529, Time: 0.913086, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1530, Time: 0.914062, Nf = 0000058756, Systemstep: 0.000976562
+
+Sync-Point 1531, Time: 0.915039, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1532, Time: 0.916016, Nf = 0000000036, Systemstep: 0.000976562
+
+Sync-Point 1533, Time: 0.916992, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1534, Time: 0.917969, Nf = 0000026781, Systemstep: 0.000976562
+
+Sync-Point 1535, Time: 0.918945, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1536, Time: 0.919922, Nf = 0000000038, Systemstep: 0.000976562
+
+Sync-Point 1537, Time: 0.920898, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1538, Time: 0.921875, Nf = 0000090076, Systemstep: 0.000976562
+
+Sync-Point 1539, Time: 0.922852, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1540, Time: 0.923828, Nf = 0000000044, Systemstep: 0.000976562
+
+Sync-Point 1541, Time: 0.924805, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1542, Time: 0.925781, Nf = 0000026775, Systemstep: 0.000976562
+
+Sync-Point 1543, Time: 0.92627, Nf = 0000000001, Systemstep: 0.000488281
+
+Sync-Point 1544, Time: 0.926758, Nf = 0000000001, Systemstep: 0.000488281
+
+Sync-Point 1545, Time: 0.927246, Nf = 0000000001, Systemstep: 0.000488281
+
+Sync-Point 1546, Time: 0.927734, Nf = 0000000055, Systemstep: 0.000488281
+
+Sync-Point 1547, Time: 0.928223, Nf = 0000000001, Systemstep: 0.000488281
+
+Sync-Point 1548, Time: 0.928711, Nf = 0000000001, Systemstep: 0.000488281
+
+Sync-Point 1549, Time: 0.929688, Nf = 0000058767, Systemstep: 0.000976562
+
+Sync-Point 1550, Time: 0.930664, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1551, Time: 0.931641, Nf = 0000000035, Systemstep: 0.000976562
+
+Sync-Point 1552, Time: 0.932617, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1553, Time: 0.933594, Nf = 0000026767, Systemstep: 0.000976562
+
+Sync-Point 1554, Time: 0.93457, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1555, Time: 0.935547, Nf = 0000000061, Systemstep: 0.000976562
+
+Sync-Point 1556, Time: 0.936523, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1557, Time: 0.937012, Nf = 0000000001, Systemstep: 0.000488281
+
+Sync-Point 1558, Time: 0.937256, Nf = 0000000001, Systemstep: 0.000244141
+
+Sync-Point 1559, Time: 0.9375, Nf = 0000110000, Systemstep: 0.000244141
+
+Sync-Point 1560, Time: 0.937744, Nf = 0000000001, Systemstep: 0.000244141
+
+Sync-Point 1561, Time: 0.937988, Nf = 0000000001, Systemstep: 0.000244141
+
+Sync-Point 1562, Time: 0.938232, Nf = 0000000001, Systemstep: 0.000244141
+
+Sync-Point 1563, Time: 0.938477, Nf = 0000000002, Systemstep: 0.000244141
+
+Sync-Point 1564, Time: 0.938965, Nf = 0000000001, Systemstep: 0.000488281
+
+Sync-Point 1565, Time: 0.939453, Nf = 0000000063, Systemstep: 0.000488281
+
+Sync-Point 1566, Time: 0.94043, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1567, Time: 0.941406, Nf = 0000026724, Systemstep: 0.000976562
+
+Sync-Point 1568, Time: 0.943359, Nf = 0000000046, Systemstep: 0.00195312
+
+Sync-Point 1569, Time: 0.945312, Nf = 0000058773, Systemstep: 0.00195312
+
+Sync-Point 1570, Time: 0.947266, Nf = 0000000042, Systemstep: 0.00195312
+
+Sync-Point 1571, Time: 0.949219, Nf = 0000026657, Systemstep: 0.00195312
+
+Sync-Point 1572, Time: 0.951172, Nf = 0000000036, Systemstep: 0.00195312
+
+Sync-Point 1573, Time: 0.953125, Nf = 0000089984, Systemstep: 0.00195312
+
+Sync-Point 1574, Time: 0.955078, Nf = 0000000043, Systemstep: 0.00195312
+
+Sync-Point 1575, Time: 0.957031, Nf = 0000026607, Systemstep: 0.00195312
+
+Sync-Point 1576, Time: 0.958984, Nf = 0000000048, Systemstep: 0.00195312
+
+Sync-Point 1577, Time: 0.960938, Nf = 0000058762, Systemstep: 0.00195312
+
+Sync-Point 1578, Time: 0.962891, Nf = 0000000054, Systemstep: 0.00195312
+
+Sync-Point 1579, Time: 0.964844, Nf = 0000026586, Systemstep: 0.00195312
+
+Sync-Point 1580, Time: 0.966797, Nf = 0000000036, Systemstep: 0.00195312
+
+Sync-Point 1581, Time: 0.96875, Nf = 0000101573, Systemstep: 0.00195312
+
+Sync-Point 1582, Time: 0.970703, Nf = 0000000040, Systemstep: 0.00195312
+
+Sync-Point 1583, Time: 0.972656, Nf = 0000026548, Systemstep: 0.00195312
+
+Sync-Point 1584, Time: 0.973633, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1585, Time: 0.974609, Nf = 0000000047, Systemstep: 0.000976562
+
+Sync-Point 1586, Time: 0.975586, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1587, Time: 0.976562, Nf = 0000058776, Systemstep: 0.000976562
+
+Sync-Point 1588, Time: 0.977539, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1589, Time: 0.978516, Nf = 0000000049, Systemstep: 0.000976562
+
+Sync-Point 1590, Time: 0.979492, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1591, Time: 0.980469, Nf = 0000026524, Systemstep: 0.000976562
+
+Sync-Point 1592, Time: 0.982422, Nf = 0000000041, Systemstep: 0.00195312
+
+Sync-Point 1593, Time: 0.984375, Nf = 0000089940, Systemstep: 0.00195312
+
+Sync-Point 1594, Time: 0.986328, Nf = 0000000041, Systemstep: 0.00195312
+
+Sync-Point 1595, Time: 0.988281, Nf = 0000026498, Systemstep: 0.00195312
+
+Sync-Point 1596, Time: 0.990234, Nf = 0000000042, Systemstep: 0.00195312
+
+Sync-Point 1597, Time: 0.992188, Nf = 0000058781, Systemstep: 0.00195312
+
+Sync-Point 1598, Time: 0.994141, Nf = 0000000051, Systemstep: 0.00195312
+
+Sync-Point 1599, Time: 0.995117, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1600, Time: 0.996094, Nf = 0000026459, Systemstep: 0.000976562
+
+Sync-Point 1601, Time: 0.99707, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1602, Time: 0.998047, Nf = 0000000046, Systemstep: 0.000976562
+
+Sync-Point 1603, Time: 0.999023, Nf = 0000000001, Systemstep: 0.000976562
+
+Sync-Point 1604, Time: 1, Nf = 0000110000, Systemstep: 0.000976562
