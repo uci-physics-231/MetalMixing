@@ -8,7 +8,7 @@
 ### Parameters
 s8="0.801";ns="0.963";omegaB="0.0449"
 workpath="/home/crwheele/dwarf/ballofgas"
-nini=0;nfin=100;delta=1
+nini=0;nfin=50;delta=1
 icnum='G00'
 runnum='0'
 fpy=run_hdf52irate_${icnum}_${runnum}.py #temporary name for temporary python file
@@ -20,7 +20,7 @@ create_hdf52irate()
 	echo "from irate.gadget import gadget_hdf5_to_irate" >> ${fpy}
     echo "filein=${filein}" >> ${fpy}
     echo "fileout=${fileout}" >> ${fpy}
-	echo "snap=${snap}" >> ${fpy}
+	echo "snap=${number}" >> ${fpy}
     echo "lunits=np.array([3.08568025e21,-1,1])" >> ${fpy}
     echo "gadget_hdf5_to_irate(filein,fileout,snap,lunits=lunits,s8=${s8},ns=${ns},omegaB=${omegaB})" >> ${fpy}
 }
@@ -29,9 +29,9 @@ cd $PBS_O_WORKDIR
 mypy
 for number in `seq ${nini} ${delta} ${nfin}`
 do
-    snap=`printf "%03d" ${number}`
-    filein="\"${workpath}/${icnum}/runs/${icnum}_${runnum}/raw_output/${icnum}_${runnum}_${snap}.hdf5\""
-    fileout="\"${workpath}/${icnum}/runs/${icnum}_${runnum}/irate/${icnum}_${runnum}_${snap}-irate.hdf5\""
+    snapfile=`printf "%03d" ${number}`
+    filein="\"${workpath}/${icnum}/runs/${icnum}_${runnum}/raw_output/${icnum}_${runnum}_${snapfile}.hdf5\""
+    fileout="\"${workpath}/${icnum}/runs/${icnum}_${runnum}/irate/${icnum}_${runnum}_${snapfile}-irate.hdf5\""
     create_hdf52irate
     python ${fpy}
     rm ${fpy}
